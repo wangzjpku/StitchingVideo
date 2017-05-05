@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="`anonymous-namespace'::CpuMatcher">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY=</HashCode>
+      <FileName>src\matchers.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="`anonymous-namespace'::GpuMatcher" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAQAEAAAAAAAAAAAAAAEABAEAAAgAAAAAAAAY=</HashCode>
+      <FileName>src\matchers.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::Blender" Collapsed="true">
+    <Position X="1.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAABAAAAAAAAAQAAAAABAAAAQAAAIACI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\blenders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::FeatherBlender" Collapsed="true">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAABAABCAAAAAAAAAAAAAQgAAAAAAAAAYEAAAAAI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\blenders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::MultiBandBlender" Collapsed="true">
+    <Position X="2.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEARCAAACIAAgAACACAAQQAAAAAAAACAAAAAAAAI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\blenders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::ExposureCompensator" Collapsed="true">
+    <Position X="11" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\exposure_compensate.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::NoExposureCompensator" Collapsed="true">
+    <Position X="8.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\exposure_compensate.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::GainCompensator" Collapsed="true">
+    <Position X="11" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\exposure_compensate.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::BlocksGainCompensator" Collapsed="true">
+    <Position X="13.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAYAI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\exposure_compensate.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::FeaturesFinder" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::SurfFeaturesFinder" Collapsed="true">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAABAAAAAAAACAAAAAAAAAE=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::OrbFeaturesFinder" Collapsed="true">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAIAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::SurfFeaturesFinderGpu" Collapsed="true">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQAQAAAAAAAYAECAAEAAwAAAACAAAAAAgAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::FeaturesMatcher" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAEgAAAEAAECAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::BestOf2NearestMatcher" Collapsed="true">
+    <Position X="41" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAM=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::Estimator" Collapsed="true">
+    <Position X="15" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\motion_estimators.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::HomographyBasedEstimator" Collapsed="true">
+    <Position X="17.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\motion_estimators.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::BundleAdjusterBase" Collapsed="true">
+    <Position X="13.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIBAAACKAgDEGAIEAAAAAAAAAAggCgACBAAACIAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\motion_estimators.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::BundleAdjusterReproj" Collapsed="true">
+    <Position X="12.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAACAAAAAMAAAAAAAAAgACAAAACAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\motion_estimators.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::BundleAdjusterRay" Collapsed="true">
+    <Position X="15" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAIAMAAAAAAAAAgACAAAACAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\motion_estimators.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::SeamFinder" Collapsed="true">
+    <Position X="5.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::NoSeamFinder" Collapsed="true">
+    <Position X="5.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::PairwiseSeamFinder" Collapsed="true">
+    <Position X="7.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAABAAAAAAAAAAAAgAAAAAABAAACAAAAAAIAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::VoronoiSeamFinder" Collapsed="true">
+    <Position X="9.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::DpSeamFinder" Collapsed="true">
+    <Position X="9.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAkiCAABLAAAADAgAAAAAIABAASCAKgDJkAEAAASAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::GraphCutSeamFinderBase" Collapsed="true">
+    <Position X="2.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::GraphCutSeamFinder" Collapsed="true">
+    <Position X="5.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAgAAAAADAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::GraphCutSeamFinderGpu" Collapsed="true">
+    <Position X="7.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAKAAAAAAAAAAIAgAACAAAAAAACAAAQAAABAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\seam_finders.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::DisjointSets" Collapsed="true">
+    <Position X="43.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAQAAAABAAIAAAAgAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\util.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::Graph" Collapsed="true">
+    <Position X="45.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAIAAAAAAIACEAAAAAAAAgAAABAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\util.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::RotationWarper" Collapsed="true">
+    <Position X="19.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAIAACAAgAEACAAAAAARAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::RotationWarperBase&lt;P&gt;" Collapsed="true">
+    <Position X="19.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAIAAAAAIAACAAgAEACAAAAAAQAAAg=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::PlaneWarper" Collapsed="true">
+    <Position X="7" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACAAAAAAAAAAAAAAAAIAACAAAAEACAAAAAAQAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::SphericalWarper" Collapsed="true">
+    <Position X="16" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::CylindricalWarper" Collapsed="true">
+    <Position X="25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::FisheyeWarper" Collapsed="true">
+    <Position X="29.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::StereographicWarper" Collapsed="true">
+    <Position X="4.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::CompressedRectilinearWarper" Collapsed="true">
+    <Position X="13.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::CompressedRectilinearPortraitWarper" Collapsed="true">
+    <Position X="22.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::PaniniWarper" Collapsed="true">
+    <Position X="27.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::PaniniPortraitWarper" Collapsed="true">
+    <Position X="31.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::MercatorWarper" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::TransverseMercatorWarper" Collapsed="true">
+    <Position X="18.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::PlaneWarperGpu" Collapsed="true">
+    <Position X="7" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAABAAAQAAAAAAAAAEEAAAAAAAQAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::SphericalWarperGpu" Collapsed="true">
+    <Position X="16" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAQAAAABAAAAAAAAAAAAAEEAAAAAAAQAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::CylindricalWarperGpu" Collapsed="true">
+    <Position X="25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAABAAAAAAAABAAAAEEAAAAAAAQAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::SphericalPortraitWarper" Collapsed="true">
+    <Position X="34" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::CylindricalPortraitWarper" Collapsed="true">
+    <Position X="11.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv::detail::PlanePortraitWarper" Collapsed="true">
+    <Position X="20.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="`anonymous-namespace'::DistIdxPair" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>src\matchers.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::MatchPairsBody" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAQAAEAEAAAAAAgAAAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>src\matchers.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::IncDistance" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAQAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>src\motion_estimators.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::CalcRotation">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAEAAAQAAAAAAAAAAAEAABAAAAAAA=</HashCode>
+      <FileName>src\motion_estimators.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::CameraParams" Collapsed="true">
+    <Position X="43.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAAQgQIAAEQA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\camera.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::ImageFeatures" Collapsed="true">
+    <Position X="43.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAIAAAAAAQAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::MatchesInfo" Collapsed="true">
+    <Position X="45.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAQIAAAAAAAAAAAggAAAAAAAAEAAAAgAkAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\matchers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::GraphEdge" Collapsed="true">
+    <Position X="45.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAJAAAAAAAAAAAAAAAgAAAAAAAAgAAAgAAAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\util.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::ProjectorBase" Collapsed="true">
+    <Position X="23.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAACAAAAAAAAgAQAABAAIEA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::PlaneProjector" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::SphericalProjector" Collapsed="true">
+    <Position X="17.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::CylindricalProjector" Collapsed="true">
+    <Position X="26.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::FisheyeProjector" Collapsed="true">
+    <Position X="31.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::StereographicProjector" Collapsed="true">
+    <Position X="38" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::CompressedRectilinearProjector" Collapsed="true">
+    <Position X="15.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAQAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::CompressedRectilinearPortraitProjector" Collapsed="true">
+    <Position X="24.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAQAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::PaniniProjector" Collapsed="true">
+    <Position X="29" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAQAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::PaniniPortraitProjector" Collapsed="true">
+    <Position X="33.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAQAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::MercatorProjector" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::TransverseMercatorProjector" Collapsed="true">
+    <Position X="20" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::SphericalPortraitProjector" Collapsed="true">
+    <Position X="35.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::CylindricalPortraitProjector" Collapsed="true">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cv::detail::PlanePortraitProjector" Collapsed="true">
+    <Position X="22.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\warpers.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="`anonymous-namespace'::MatchesSet" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\matchers.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="cv::detail::WaveCorrectKind" Collapsed="true">
+    <Position X="43.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>include\opencv2\stitching\detail\motion_estimators.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

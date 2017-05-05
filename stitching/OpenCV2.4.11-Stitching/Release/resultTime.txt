@@ -1,0 +1,55 @@
+Finding features...
+Features in image #1: 1309
+Features in image #2: 2530
+Features in image #3: 1677
+Features in image #4: 938
+Features in image #5: 1153
+Features in image #6: 1214
+Finding features, time: 4.51278 sec
+Pairwise matching
+1->2 matches: 48
+
+1->2 matches: 66
+
+1->2 matches: 185
+
+1->2 matches: 36
+1->2 & 2->1 matches: 77
+.1->2 & 2->1 matches: 87
+.1->2 & 2->1 matches: 52
+1->2 & 2->1 matches: 338
+.
+1->2 matches: 155
+
+1->2 matches: 211
+
+1->2 matches: 10
+
+1->2 matches: 16
+1->2 & 2->1 matches: 28
+1->2 & 2->1 matches: 291
+1->2 & 2->1 matches: 220
+..1->2 & 2->1 matches: 43
+..
+1->2 matches: 43
+
+1->2 matches: 167
+1->2 & 2->1 matches: 58
+1->2 & 2->1 matches: 207
+..
+1->2 matches: 22
+
+1->2 matches: 16
+
+1->2 matches: 14
+1->2 & 2->1 matches: 33
+.1->2 & 2->1 matches: 32
+1->2 & 2->1 matches: 29
+.
+1->2 matches: 71
+
+1->2 matches: 26
+.1->2 & 2->1 matches: 81
+1->2 & 2->1 matches: 48
+...Pairwise matching, time: 0.865933 sec
+Need more images

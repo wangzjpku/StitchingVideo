@@ -1,0 +1,4607 @@
+Stitching Statistic Per is : 1
+
+Finding features...
+Features in image #1: 1309
+Features in image #2: 2530
+Features in image #3: 1677
+Features in image #4: 938
+Features in image #5: 1153
+Features in image #6: 1214
+Finding features, time: 4.61982 sec
+Pairwise matching
+1->2 matches: 48
+
+1->2 matches: 66
+
+1->2 matches: 185
+
+1->2 matches: 36
+1->2 & 2->1 matches: 77
+.1->2 & 2->1 matches: 87
+.
+1->2 matches: 10
+1->2 & 2->1 matches: 52
+
+1->2 matches: 155
+1->2 & 2->1 matches: 28
+
+1->2 matches: 211
+.1->2 & 2->1 matches: 338
+.1->2 & 2->1 matches: 220
+.1->2 & 2->1 matches: 291
+.
+1->2 matches: 16
+.
+1->2 matches: 43
+1->2 & 2->1 matches: 43
+
+1->2 matches: 167
+1->2 & 2->1 matches: 58
+1->2 & 2->1 matches: 207
+.
+1->2 matches: 22
+.1->2 & 2->1 matches: 33
+.
+1->2 matches: 16
+
+1->2 matches: 14
+.1->2 & 2->1 matches: 32
+
+1->2 matches: 71
+1->2 & 2->1 matches: 29
+
+1->2 matches: 26
+1->2 & 2->1 matches: 81
+1->2 & 2->1 matches: 48
+....Pairwise matching, time: 0.881982 sec
+Estimating rotations...
+Estimating rotations, time: 0.000124341 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.76312e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.222307 sec
+Exposure compensation...
+Exposure compensation, time: 0.879024 sec
+Finding seams...
+Finding seams, time: 2.23023 sec
+Compositing...
+1 5   1
+2 5   2
+3 5   3
+4 5   4
+5 5   6
+6 5   6
+Compositing, time: 6.48141 sec
+Finished, total time: 15.4498 sec
+[8047 x 1106]  6  [8047 x 1106]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.0470993 sec
+Read Frame, time: 0.040949 sec
+Read Frame, time: 0.0397928 sec
+Read Frame, time: 0.0389358 sec
+Read Frame, time: 0.0375756 sec
+Read Frame, time: 0.049249 sec
+Read Frame, time: 0.0442328 sec
+Read Frame, time: 0.038099 sec
+Read Frame, time: 0.0390905 sec
+Stitching Statistic Per is : 2
+
+Finding features...
+Read Frame, time: 0.149945 sec
+Read Frame, time: 0.0428879 sec
+Read Frame, time: 0.0390538 sec
+Features in image #1: 1263
+Read Frame, time: 0.0902939 sec
+Read Frame, time: 0.103218 sec
+Read Frame, time: 0.0407855 sec
+Features in image #2: 2537
+Read Frame, time: 0.0365204 sec
+Read Frame, time: 0.0730452 sec
+Read Frame, time: 0.0439738 sec
+Features in image #3: 1691
+Features in image #4: 930
+Read Frame, time: 0.0797699 sec
+Read Frame, time: 0.0481643 sec
+Read Frame, time: 0.0476776 sec
+Read Frame, time: 0.0821044 sec
+Read Frame, time: 0.0798978 sec
+Features in image #5: 1118
+Read Frame, time: 0.0751211 sec
+Features in image #6: 1173
+Finding features, time: 6.34859 sec
+Pairwise matching
+1->2 matches: 71
+
+1->2 matches: 188
+
+1->2 matches: 42
+1->2 & 2->1 matches: 102
+.
+1->2 matches: 32
+1->2 & 2->1 matches: 315
+.1->2 & 2->1 matches: 58
+.
+1->2 matches: 16
+
+1->2 matches: 241
+
+1->2 matches: 17
+1->2 & 2->1 matches: 26
+
+1->2 matches: 5
+1->2 & 2->1 matches: 49
+.1->2 & 2->1 matches: 41
+
+1->2 matches: 16
+1->2 & 2->1 matches: 19
+1->2 & 2->1 matches: 27
+.1->2 & 2->1 matches: 326
+....
+1->2 matches: 164
+
+1->2 matches: 29
+
+1->2 matches: 160
+1->2 & 2->1 matches: 55
+1->2 & 2->1 matches: 213
+.1->2 & 2->1 matches: 213
+.
+1->2 matches: 16
+1->2 & 2->1 matches: 30
+..
+1->2 matches: 22
+
+1->2 matches: 68
+1->2 & 2->1 matches: 43
+1->2 & 2->1 matches: 75
+Read Frame, time: 0.0642383 sec
+Read Frame, time: 0.0504723 sec
+.Read Frame, time: 0.0485839 sec
+.Pairwise matching, time: 1.09838 sec
+Estimating rotations...
+Estimating rotations, time: 0.000116841 sec
+Saving 31...
+Saving 32...
+Read Frame, time: 0.0537541 sec
+Read Frame, time: 0.0500377 sec
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.36839e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Read Frame, time: 0.0602452 sec
+Warping images, time: 0.431194 sec
+Exposure compensation...
+Read Frame, time: 0.0510885 sec
+Read Frame, time: 0.0511824 sec
+Read Frame, time: 0.0499832 sec
+Read Frame, time: 0.0507309 sec
+Read Frame, time: 0.0494109 sec
+Exposure compensation, time: 1.36975 sec
+Finding seams...
+Read Frame, time: 0.048651 sec
+Read Frame, time: 0.0542851 sec
+Read Frame, time: 0.0607717 sec
+Read Frame, time: 0.0592062 sec
+Read Frame, time: 0.0622595 sec
+Read Frame, time: 0.0575294 sec
+Read Frame, time: 0.05739 sec
+Read Frame, time: 0.0653976 sec
+Read Frame, time: 0.0597991 sec
+Read Frame, time: 0.0706484 sec
+Read Frame, time: 0.0693225 sec
+Read Frame, time: 0.0707546 sec
+Read Frame, time: 0.0614898 sec
+Read Frame, time: 0.0669095 sec
+Read Frame, time: 0.0780564 sec
+Read Frame, time: 0.0708607 sec
+Read Frame, time: 0.0728695 sec
+Read Frame, time: 0.0706113 sec
+Read Frame, time: 0.0714481 sec
+Finding seams, time: 5.40819 sec
+Compositing...
+1 5   1
+Read Frame, time: 0.07026 sec
+Read Frame, time: 0.0854545 sec
+Read Frame, time: 0.0757156 sec
+2 5   2
+Read Frame, time: 0.075898 sec
+Read Frame, time: 0.0702043 sec
+Read Frame, time: 0.0741651 sec
+3 5   3
+4 5   4
+Read Frame, time: 0.0887217 sec
+Read Frame, time: 0.0874037 sec
+Read Frame, time: 0.0822074 sec
+Read Frame, time: 0.0772685 sec
+Read Frame, time: 0.0936622 sec
+Read Frame, time: 0.0832969 sec
+Read Frame, time: 0.0878734 sec
+Read Frame, time: 0.0901013 sec
+Read Frame, time: 0.243046 sec
+Read Frame, time: 0.105839 sec
+Read Frame, time: 0.0836024 sec
+5 5   6
+Read Frame, time: 0.105815 sec
+Read Frame, time: 0.106874 sec
+Read Frame, time: 0.0924148 sec
+Read Frame, time: 0.0957239 sec
+Read Frame, time: 0.0918981 sec
+Read Frame, time: 0.0946032 sec
+Read Frame, time: 0.0946826 sec
+6 5   6
+Compositing, time: 7.9466 sec
+Finished, total time: 22.8268 sec
+[8059 x 1110]  6  [8059 x 1110]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.100531 sec
+Read Frame, time: 0.101223 sec
+Read Frame, time: 0.096822 sec
+Read Frame, time: 0.0942642 sec
+Read Frame, time: 0.0918748 sec
+Read Frame, time: 0.0929611 sec
+Read Frame, time: 0.225676 sec
+Read Frame, time: 0.200168 sec
+Stitching Statistic Per is : 3
+
+Finding features...
+Read Frame, time: 0.211974 sec
+Read Frame, time: 0.435689 sec
+Read Frame, time: 0.238925 sec
+Read Frame, time: 0.251035 sec
+Features in image #1: 1300
+Read Frame, time: 0.249889 sec
+Features in image #2: 2527
+Read Frame, time: 0.110446 sec
+Read Frame, time: 0.244285 sec
+Read Frame, time: 0.145042 sec
+Read Frame, time: 0.188985 sec
+Features in image #3: 1703
+Read Frame, time: 0.36133 sec
+Features in image #4: 938
+Features in image #5: 1142
+Read Frame, time: 0.248095 sec
+Read Frame, time: 0.191118 sec
+Features in image #6: 1169
+Finding features, time: 6.97747 sec
+Pairwise matchingRead Frame, time: 0.302867 sec
+
+1->2 matches: 201
+
+1->2 matches: 49
+
+1->2 matches: 85
+
+1->2 matches: 38
+1->2 & 2->1 matches: 325
+.1->2 & 2->1 matches: 70
+.1->2 & 2->1 matches: 50
+Read Frame, time: 0.244453 sec
+1->2 & 2->1 matches: 126
+
+1->2 matches: 152
+
+1->2 matches: 18
+.
+1->2 matches: 7
+1->2 & 2->1 matches: 194
+.1->2 & 2->1 matches: 48
+.1->2 & 2->1 matches: 18
+
+1->2 matches: 156
+1->2 & 2->1 matches: 199
+.
+1->2 matches: 228
+.Read Frame, time: 0.260253 sec
+
+1->2 matches: 33
+
+1->2 matches: 17
+.
+1->2 matches: 19
+1->2 & 2->1 matches: 43
+1->2 & 2->1 matches: 307
+1->2 & 2->1 matches: 32
+..
+1->2 matches: 30
+1->2 & 2->1 matches: 28
+.1->2 & 2->1 matches: 44
+..
+1->2 matches: 33
+1->2 & 2->1 matches: 41
+
+1->2 matches: 26
+Read Frame, time: 0.174155 sec
+1->2 & 2->1 matches: 51
+..Pairwise matching, time: 1.73015 sec
+Estimating rotations...
+Estimating rotations, time: 0.000108157 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 4.06576e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.239166 sec
+Exposure compensation...
+Read Frame, time: 0.147777 sec
+Read Frame, time: 0.14033 sec
+Read Frame, time: 0.145222 sec
+Read Frame, time: 0.131426 sec
+Read Frame, time: 0.133247 sec
+Read Frame, time: 0.129387 sec
+Exposure compensation, time: 1.72771 sec
+Finding seams...
+Read Frame, time: 0.149308 sec
+Read Frame, time: 0.140546 sec
+Read Frame, time: 0.144377 sec
+Read Frame, time: 0.138321 sec
+Read Frame, time: 0.139563 sec
+Read Frame, time: 0.137471 sec
+Finding seams, time: 2.61244 sec
+Compositing...
+Read Frame, time: 0.154216 sec
+Read Frame, time: 0.156832 sec
+Read Frame, time: 0.183403 sec
+1 5   1
+Read Frame, time: 0.189984 sec
+Read Frame, time: 0.145858 sec
+Read Frame, time: 0.146305 sec
+2 5   2
+3 5   3
+4 5   4
+Read Frame, time: 0.185207 sec
+Read Frame, time: 0.1615 sec
+Read Frame, time: 0.165399 sec
+Read Frame, time: 0.158077 sec
+Read Frame, time: 0.16124 sec
+Read Frame, time: 0.165701 sec
+Read Frame, time: 0.396091 sec
+Read Frame, time: 0.179444 sec
+5 5   6
+Read Frame, time: 0.166468 sec
+Read Frame, time: 0.158046 sec
+Read Frame, time: 0.160382 sec
+Read Frame, time: 0.194726 sec
+Read Frame, time: 0.0635763 sec
+Read Frame, time: 0.0619496 sec
+Read Frame, time: 0.0569906 sec
+Read Frame, time: 0.0601086 sec
+Read Frame, time: 0.0682571 sec
+Read Frame, time: 0.056646 sec
+6 5   6
+Compositing, time: 8.87241 sec
+Finished, total time: 22.3619 sec
+[8042 x 1106]  6  [8042 x 1106]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.0628038 sec
+Read Frame, time: 0.061095 sec
+Read Frame, time: 0.0573312 sec
+Read Frame, time: 0.0567111 sec
+Read Frame, time: 0.0579644 sec
+Read Frame, time: 0.0585438 sec
+Read Frame, time: 0.148124 sec
+Read Frame, time: 0.131838 sec
+Read Frame, time: 0.124236 sec
+Read Frame, time: 0.115647 sec
+Read Frame, time: 0.115198 sec
+Stitching Statistic Per is : 4
+
+Finding features...
+Read Frame, time: 0.2125 sec
+Features in image #1: 1276
+Read Frame, time: 0.230484 sec
+Read Frame, time: 0.164088 sec
+Read Frame, time: 0.110152 sec
+Read Frame, time: 0.112376 sec
+Features in image #2: 2561
+Read Frame, time: 0.200092 sec
+Read Frame, time: 0.194933 sec
+Features in image #3: 1715
+Features in image #4: 963
+Read Frame, time: 0.223113 sec
+Read Frame, time: 0.160734 sec
+Read Frame, time: 0.117199 sec
+Read Frame, time: 0.0875631 sec
+Read Frame, time: 0.23391 sec
+Features in image #5: 1142
+Read Frame, time: 0.142389 sec
+Features in image #6: 1175
+Finding features, time: 7.23727 sec
+Pairwise matching
+1->2 matches: 65
+
+1->2 matches: 49
+
+1->2 matches: 200
+1->2 & 2->1 matches: 95
+.1->2 & 2->1 matches: 69
+.1->2 & 2->1 matches: 374
+.
+1->2 matches: 230
+
+1->2 matches: 13
+
+1->2 matches: 38
+
+1->2 matches: 12
+1->2 & 2->1 matches: 18
+1->2 & 2->1 matches: 297
+.
+1->2 matches: 20
+1->2 & 2->1 matches: 18
+
+1->2 matches: 17
+.1->2 & 2->1 matches: 46
+1->2 & 2->1 matches: 66
+.1->2 & 2->1 matches: 32
+
+1->2 matches: 13
+
+1->2 matches: 156
+.1->2 & 2->1 matches: 22
+.
+1->2 matches: 151
+1->2 & 2->1 matches: 201
+.
+1->2 matches: 40
+1->2 & 2->1 matches: 199
+...
+1->2 matches: 16
+1->2 & 2->1 matches: 54
+1->2 & 2->1 matches: 37
+Read Frame, time: 0.204652 sec
+.
+1->2 matches: 27
+.Read Frame, time: 0.126386 sec
+1->2 & 2->1 matches: 50
+Read Frame, time: 0.101413 sec
+Read Frame, time: 0.0981495 sec
+.Pairwise matching, time: 1.49831 sec
+Estimating rotations...
+Estimating rotations, time: 0.000114078 sec
+Saving 31...
+Saving 32...
+Read Frame, time: 0.102688 sec
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.44733e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Read Frame, time: 0.0992721 sec
+Warping images, time: 0.466414 sec
+Exposure compensation...
+Read Frame, time: 0.109666 sec
+Read Frame, time: 0.106262 sec
+Read Frame, time: 0.107541 sec
+Read Frame, time: 0.101875 sec
+Read Frame, time: 0.107098 sec
+Exposure compensation, time: 1.52841 sec
+Finding seams...
+Read Frame, time: 0.109433 sec
+Read Frame, time: 0.1075 sec
+Read Frame, time: 0.114731 sec
+Read Frame, time: 0.112176 sec
+Read Frame, time: 0.103924 sec
+Read Frame, time: 0.106658 sec
+Read Frame, time: 0.124666 sec
+Finding seams, time: 2.67268 sec
+Compositing...
+Read Frame, time: 0.120786 sec
+Read Frame, time: 0.135004 sec
+1 5   1
+Read Frame, time: 0.15179 sec
+Read Frame, time: 0.124988 sec
+Read Frame, time: 0.116785 sec
+Read Frame, time: 0.11316 sec
+2 5   2
+3 5   3
+Read Frame, time: 0.156211 sec
+4 5   4
+Read Frame, time: 0.147832 sec
+Read Frame, time: 0.124502 sec
+Read Frame, time: 0.120741 sec
+Read Frame, time: 0.127399 sec
+Read Frame, time: 0.117742 sec
+Read Frame, time: 0.124997 sec
+Read Frame, time: 0.136683 sec
+Read Frame, time: 0.134249 sec
+Read Frame, time: 0.125112 sec
+Read Frame, time: 0.135426 sec
+Read Frame, time: 0.218686 sec
+5 5   6
+Read Frame, time: 0.147198 sec
+Read Frame, time: 0.145269 sec
+Read Frame, time: 0.144978 sec
+Read Frame, time: 0.163656 sec
+Read Frame, time: 0.143991 sec
+Read Frame, time: 0.137774 sec
+6 5   6
+Compositing, time: 9.00177 sec
+Finished, total time: 22.752 sec
+[8047 x 1105]  6  [8047 x 1105]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.137792 sec
+Read Frame, time: 0.136446 sec
+Read Frame, time: 0.133477 sec
+Read Frame, time: 0.130997 sec
+Read Frame, time: 0.129515 sec
+Read Frame, time: 0.132264 sec
+Read Frame, time: 0.164211 sec
+Read Frame, time: 0.156451 sec
+Read Frame, time: 0.152937 sec
+Read Frame, time: 0.143388 sec
+Read Frame, time: 0.133411 sec
+Stitching Statistic Per is : 5
+
+Finding features...
+Read Frame, time: 0.274949 sec
+Features in image #1: 1297
+Features in image #2: 2516
+Read Frame, time: 0.224864 sec
+Read Frame, time: 0.338797 sec
+Features in image #3: 1727
+Read Frame, time: 0.2282 sec
+Read Frame, time: 0.292703 sec
+Read Frame, time: 0.172337 sec
+Features in image #4: 955
+Read Frame, time: 0.303296 sec
+Features in image #5: 1157
+Read Frame, time: 0.401478 sec
+Features in image #6: 1191
+Finding features, time: 6.35603 sec
+Pairwise matching
+1->2 matches: 41
+
+1->2 matches: 74
+1->2 & 2->1 matches: 54
+.
+1->2 matches: 48
+
+1->2 matches: 200
+1->2 & 2->1 matches: 130
+
+1->2 matches: 11
+.1->2 & 2->1 matches: 64
+1->2 & 2->1 matches: 345
+1->2 & 2->1 matches: 22
+.
+1->2 matches: 169
+
+1->2 matches: 217
+
+1->2 matches: 22
+..Read Frame, time: 0.459788 sec
+1->2 & 2->1 matches: 47
+
+1->2 matches: 164
+1->2 & 2->1 matches: 310
+1->2 & 2->1 matches: 211
+..1->2 & 2->1 matches: 205
+.
+1->2 matches: 31
+
+1->2 matches: 29
+1->2 & 2->1 matches: 43
+1->2 & 2->1 matches: 41
+.Read Frame, time: 0.344804 sec
+.
+1->2 matches: 16
+.
+1->2 matches: 48
+1->2 & 2->1 matches: 27
+
+1->2 matches: 13
+1->2 & 2->1 matches: 67
+1->2 & 2->1 matches: 28
+
+1->2 matches: 38
+Read Frame, time: 0.301772 sec
+.1->2 & 2->1 matches: 46
+...Pairwise matching, time: 1.28499 sec
+Estimating rotations...
+Estimating rotations, time: 0.000105789 sec
+Saving 31...
+Saving 32...
+Read Frame, time: 0.204839 sec
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.44733e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.233486 sec
+Exposure compensation...
+Read Frame, time: 0.182128 sec
+Exposure compensation, time: 0.206469 sec
+Finding seams...
+Finding seams, time: 0.145101 sec
+Compositing...
+1 5   1
+Read Frame, time: 0.0550295 sec
+Read Frame, time: 0.0581199 sec
+Read Frame, time: 0.0560397 sec
+Read Frame, time: 0.0617558 sec
+Read Frame, time: 0.0559504 sec
+2 5   2
+Read Frame, time: 0.055896 sec
+3 5   3
+4 5   4
+Read Frame, time: 0.0693434 sec
+Read Frame, time: 0.0694969 sec
+Read Frame, time: 0.0694705 sec
+Read Frame, time: 0.0752498 sec
+5 5   6
+Read Frame, time: 0.0575041 sec
+Read Frame, time: 0.0618051 sec
+6 5   6
+Compositing, time: 3.61187 sec
+Finished, total time: 12.1666 sec
+[8524 x 1126]  6  [8524 x 1126]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.122886 sec
+Read Frame, time: 0.11641 sec
+Read Frame, time: 0.134782 sec
+Read Frame, time: 0.109705 sec
+Read Frame, time: 0.0993215 sec
+Read Frame, time: 0.111857 sec
+Stitching Statistic Per is : 6
+
+Finding features...
+Read Frame, time: 0.106608 sec
+Read Frame, time: 0.282943 sec
+Read Frame, time: 0.281681 sec
+Read Frame, time: 0.0865708 sec
+Read Frame, time: 0.0849646 sec
+Read Frame, time: 0.0812999 sec
+Features in image #1: 1277
+Read Frame, time: 0.219181 sec
+Features in image #2: 2524
+Read Frame, time: 0.0791727 sec
+Read Frame, time: 0.239813 sec
+Read Frame, time: 0.148976 sec
+Read Frame, time: 0.0893517 sec
+Features in image #3: 1743
+Read Frame, time: 0.399996 sec
+Features in image #4: 944
+Read Frame, time: 0.111614 sec
+Read Frame, time: 0.128919 sec
+Read Frame, time: 0.230594 sec
+Features in image #5: 1141
+Read Frame, time: 0.209307 sec
+Read Frame, time: 0.157065 sec
+Read Frame, time: 0.0947761 sec
+Features in image #6: 1197
+Finding features, time: 6.20734 sec
+Pairwise matching
+1->2 matches: 49
+
+1->2 matches: 55
+
+1->2 matches: 170
+
+1->2 matches: 34
+1->2 & 2->1 matches: 65
+.1->2 & 2->1 matches: 99
+.
+1->2 matches: 13
+1->2 & 2->1 matches: 306
+.1->2 & 2->1 matches: 21
+
+1->2 matches: 219
+.
+1->2 matches: 23
+1->2 & 2->1 matches: 46
+
+1->2 matches: 147
+1->2 & 2->1 matches: 43
+1->2 & 2->1 matches: 300
+.1->2 & 2->1 matches: 203
+.
+1->2 matches: 30
+.1->2 & 2->1 matches: 44
+.
+1->2 matches: 164
+
+1->2 matches: 20
+
+1->2 matches: 17
+1->2 & 2->1 matches: 32
+1->2 & 2->1 matches: 28
+..1->2 & 2->1 matches: 202
+.
+1->2 matches: 48
+
+1->2 matches: 23
+.1->2 & 2->1 matches: 33
+1->2 & 2->1 matches: 57
+..
+1->2 matches: 17
+Read Frame, time: 0.093003 sec
+1->2 & 2->1 matches: 52
+Read Frame, time: 0.102463 sec
+Read Frame, time: 0.0975483 sec
+Read Frame, time: 0.0860103 sec
+.Read Frame, time: 0.0888764 sec
+Pairwise matching, time: 1.47361 sec
+Estimating rotations...
+Estimating rotations, time: 0.000121973 sec
+Saving 31...
+Saving 32...
+Read Frame, time: 0.109187 sec
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.76312e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.209051 sec
+Exposure compensation...
+Exposure compensation, time: 0.405066 sec
+Finding seams...
+Read Frame, time: 0.100811 sec
+Read Frame, time: 0.104048 sec
+Read Frame, time: 0.106354 sec
+Finding seams, time: 0.512886 sec
+Compositing...
+Read Frame, time: 0.122285 sec
+Read Frame, time: 0.0971181 sec
+Read Frame, time: 0.103799 sec
+1 5   1
+Read Frame, time: 0.10988 sec
+2 5   2
+Read Frame, time: 0.120193 sec
+Read Frame, time: 0.117467 sec
+Read Frame, time: 0.102573 sec
+Read Frame, time: 0.107776 sec
+Read Frame, time: 0.110684 sec
+3 5   3
+4 5   4
+Read Frame, time: 0.11614 sec
+Read Frame, time: 0.111181 sec
+Read Frame, time: 0.113934 sec
+Read Frame, time: 0.10741 sec
+Read Frame, time: 0.113222 sec
+Read Frame, time: 0.108246 sec
+Read Frame, time: 0.123462 sec
+Read Frame, time: 0.133343 sec
+Read Frame, time: 0.140941 sec
+Read Frame, time: 0.118491 sec
+Read Frame, time: 0.123128 sec
+Read Frame, time: 0.125259 sec
+5 5   6
+Read Frame, time: 0.130859 sec
+Read Frame, time: 0.127555 sec
+Read Frame, time: 0.124375 sec
+Read Frame, time: 0.117612 sec
+Read Frame, time: 0.125624 sec
+Read Frame, time: 0.131073 sec
+6 5   6
+Compositing, time: 6.45135 sec
+Finished, total time: 15.4251 sec
+[8054 x 1109]  6  [8054 x 1109]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.253599 sec
+Read Frame, time: 0.236646 sec
+Read Frame, time: 0.199566 sec
+Read Frame, time: 0.188361 sec
+Read Frame, time: 0.186382 sec
+Read Frame, time: 0.171348 sec
+Stitching Statistic Per is : 7
+
+Finding features...
+Read Frame, time: 0.195724 sec
+Read Frame, time: 0.373535 sec
+Features in image #1: 1297
+Read Frame, time: 0.151159 sec
+Read Frame, time: 0.429349 sec
+Read Frame, time: 0.161486 sec
+Read Frame, time: 0.394748 sec
+Features in image #2: 2528
+Features in image #3: 1735
+Read Frame, time: 0.294991 sec
+Read Frame, time: 0.173449 sec
+Read Frame, time: 0.266366 sec
+Features in image #4: 938
+Read Frame, time: 0.371153 sec
+Read Frame, time: 0.181147 sec
+Features in image #5: 1139
+Read Frame, time: 0.220032 sec
+Features in image #6: 1210
+Finding features, time: 6.68655 sec
+Pairwise matching
+1->2 matches: 45
+
+1->2 matches: 73
+
+1->2 matches: 21
+1->2 & 2->1 matches: 68
+
+1->2 matches: 200
+.1->2 & 2->1 matches: 99
+.
+1->2 matches: 10
+1->2 & 2->1 matches: 29
+1->2 & 2->1 matches: 21
+1->2 & 2->1 matches: 333
+.
+1->2 matches: 231
+
+1->2 matches: 19
+1->2 & 2->1 matches: 324
+.Read Frame, time: 0.445718 sec
+1->2 & 2->1 matches: 36
+.
+1->2 matches: 22
+
+1->2 matches: 143
+.
+1->2 matches: 162
+1->2 & 2->1 matches: 204
+1->2 & 2->1 matches: 33
+..1->2 & 2->1 matches: 202
+.Read Frame, time: 0.301951 sec
+
+1->2 matches: 16
+
+1->2 matches: 10
+.1->2 & 2->1 matches: 28
+1->2 & 2->1 matches: 24
+
+1->2 matches: 20
+
+1->2 matches: 45
+1->2 & 2->1 matches: 34
+..1->2 & 2->1 matches: 50
+Read Frame, time: 0.256989 sec
+..Read Frame, time: 0.155909 sec
+
+1->2 matches: 19
+Read Frame, time: 0.156106 sec
+1->2 & 2->1 matches: 47
+Read Frame, time: 0.155568 sec
+.Pairwise matching, time: 1.9841 sec
+Estimating rotations...
+Estimating rotations, time: 0.000112499 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 3.8684e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.179932 sec
+Exposure compensation...
+Read Frame, time: 0.174221 sec
+Read Frame, time: 0.164367 sec
+Read Frame, time: 0.173776 sec
+Read Frame, time: 0.176129 sec
+Exposure compensation, time: 0.934219 sec
+Finding seams...
+Read Frame, time: 0.171912 sec
+Finding seams, time: 0.440777 sec
+Compositing...
+Read Frame, time: 0.16449 sec
+1 5   1
+Read Frame, time: 0.0537616 sec
+Read Frame, time: 0.0573103 sec
+Read Frame, time: 0.072489 sec
+2 5   2
+Read Frame, time: 0.054902 sec
+Read Frame, time: 0.0557195 sec
+Read Frame, time: 0.0531399 sec
+3 5   3
+4 5   4
+Read Frame, time: 0.0794217 sec
+Read Frame, time: 0.0736969 sec
+Read Frame, time: 0.0711607 sec
+Read Frame, time: 0.0724476 sec
+Read Frame, time: 0.0617005 sec
+5 5   6
+Read Frame, time: 0.0624419 sec
+Read Frame, time: 0.070693 sec
+Read Frame, time: 0.0647807 sec
+Read Frame, time: 0.0774122 sec
+Read Frame, time: 0.0747276 sec
+Read Frame, time: 0.0667093 sec
+Read Frame, time: 0.0678339 sec
+Read Frame, time: 0.0845738 sec
+Read Frame, time: 0.0816863 sec
+6 5   6
+Read Frame, time: 0.0938051 sec
+Compositing, time: 5.52205 sec
+Finished, total time: 15.9444 sec
+[8053 x 1107]  6  [8053 x 1107]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+Read Frame, time: 0.0714753 sec
+Read Frame, time: 0.0682381 sec
+Read Frame, time: 0.0677222 sec
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.0817009 sec
+Read Frame, time: 0.0819567 sec
+Read Frame, time: 0.0765232 sec
+Read Frame, time: 0.073734 sec
+Read Frame, time: 0.0762793 sec
+Read Frame, time: 0.0750066 sec
+Read Frame, time: 0.0875892 sec
+Read Frame, time: 0.0899323 sec
+Read Frame, time: 0.0902651 sec
+Read Frame, time: 0.0812229 sec
+Read Frame, time: 0.0826475 sec
+Stitching Statistic Per is : 8
+
+Finding features...
+Read Frame, time: 0.0835858 sec
+Features in image #1: 1296
+Read Frame, time: 0.110935 sec
+Read Frame, time: 0.216746 sec
+Read Frame, time: 0.349958 sec
+Read Frame, time: 0.101123 sec
+Features in image #2: 2567
+Read Frame, time: 0.268946 sec
+Read Frame, time: 0.18337 sec
+Features in image #3: 1727
+Features in image #4: 963
+Read Frame, time: 0.1346 sec
+Read Frame, time: 0.237739 sec
+Features in image #5: 1134
+Read Frame, time: 0.110871 sec
+Read Frame, time: 0.288675 sec
+Read Frame, time: 0.135339 sec
+Read Frame, time: 0.129759 sec
+Features in image #6: 1170
+Finding features, time: 5.98993 sec
+Pairwise matching
+1->2 matches: 50
+
+1->2 matches: 70
+
+1->2 matches: 199
+1->2 & 2->1 matches: 69
+
+1->2 matches: 38
+1->2 & 2->1 matches: 123
+..1->2 & 2->1 matches: 346
+.
+1->2 matches: 12
+
+1->2 matches: 219
+
+1->2 matches: 29
+1->2 & 2->1 matches: 22
+1->2 & 2->1 matches: 51
+1->2 & 2->1 matches: 52
+.1->2 & 2->1 matches: 321
+..
+1->2 matches: 165
+
+1->2 matches: 40
+1->2 & 2->1 matches: 216
+.1->2 & 2->1 matches: 51
+.
+1->2 matches: 183
+
+1->2 matches: 22
+
+1->2 matches: 8
+1->2 & 2->1 matches: 215
+.1->2 & 2->1 matches: 39
+1->2 & 2->1 matches: 21
+...
+1->2 matches: 17
+
+1->2 matches: 37
+1->2 & 2->1 matches: 31
+1->2 & 2->1 matches: 53
+..
+1->2 matches: 22
+1->2 & 2->1 matches: 40
+.Pairwise matching, time: 1.30029 sec
+Estimating rotations...
+Estimating rotations, time: 0.00012592 sec
+Saving 31...
+Saving 32...
+Read Frame, time: 0.126273 sec
+Read Frame, time: 0.114291 sec
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 6.03944e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Read Frame, time: 0.1117 sec
+Read Frame, time: 0.105139 sec
+Read Frame, time: 0.109784 sec
+Read Frame, time: 0.12775 sec
+Warping images, time: 0.63738 sec
+Exposure compensation...
+Read Frame, time: 0.122483 sec
+Read Frame, time: 0.115101 sec
+Read Frame, time: 0.127735 sec
+Read Frame, time: 0.121296 sec
+Read Frame, time: 0.115353 sec
+Read Frame, time: 0.116238 sec
+Exposure compensation, time: 1.80621 sec
+Finding seams...
+Read Frame, time: 0.126646 sec
+Read Frame, time: 0.125846 sec
+Read Frame, time: 0.128779 sec
+Read Frame, time: 0.117708 sec
+Read Frame, time: 0.118905 sec
+Read Frame, time: 0.118682 sec
+Read Frame, time: 0.154142 sec
+Read Frame, time: 0.152801 sec
+Read Frame, time: 0.158101 sec
+Read Frame, time: 0.2301 sec
+Read Frame, time: 0.15529 sec
+Read Frame, time: 0.131491 sec
+Read Frame, time: 0.135735 sec
+Read Frame, time: 0.15287 sec
+Read Frame, time: 0.14474 sec
+Read Frame, time: 0.136269 sec
+Read Frame, time: 0.148531 sec
+Read Frame, time: 0.137126 sec
+Finding seams, time: 6.22799 sec
+Compositing...
+Read Frame, time: 0.168506 sec
+Read Frame, time: 0.15748 sec
+Read Frame, time: 0.154985 sec
+1 5   1
+Read Frame, time: 0.159874 sec
+Read Frame, time: 0.158845 sec
+Read Frame, time: 0.149298 sec
+2 5   2
+3 5   3
+Read Frame, time: 0.188055 sec
+Read Frame, time: 0.176475 sec
+4 5   4
+Read Frame, time: 0.207883 sec
+Read Frame, time: 0.163297 sec
+Read Frame, time: 0.161085 sec
+Read Frame, time: 0.174797 sec
+Read Frame, time: 0.171771 sec
+Read Frame, time: 0.184888 sec
+Read Frame, time: 0.178615 sec
+Read Frame, time: 0.166209 sec
+Read Frame, time: 0.178318 sec
+Read Frame, time: 0.178589 sec
+5 5   6
+Read Frame, time: 0.205555 sec
+Read Frame, time: 0.20106 sec
+Read Frame, time: 0.218026 sec
+Read Frame, time: 0.181663 sec
+Read Frame, time: 0.202103 sec
+Read Frame, time: 0.18343 sec
+Read Frame, time: 0.0648193 sec
+Read Frame, time: 0.0672434 sec
+Read Frame, time: 0.0597679 sec
+Read Frame, time: 0.0650258 sec
+Read Frame, time: 0.0705548 sec
+Read Frame, time: 0.0646449 sec
+6 5   6
+Compositing, time: 10.3196 sec
+Finished, total time: 26.5927 sec
+[8052 x 1110]  6  [8052 x 1110]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.0670042 sec
+Read Frame, time: 0.0692139 sec
+Read Frame, time: 0.0697701 sec
+Read Frame, time: 0.0666943 sec
+Read Frame, time: 0.0712989 sec
+Read Frame, time: 0.068085 sec
+Read Frame, time: 0.0788537 sec
+Read Frame, time: 0.0785075 sec
+Read Frame, time: 0.0787491 sec
+Read Frame, time: 0.0758249 sec
+Read Frame, time: 0.0732643 sec
+Stitching Statistic Per is : 9
+
+Finding features...
+Read Frame, time: 0.0755032 sec
+Features in image #1: 1263
+Read Frame, time: 0.166722 sec
+Read Frame, time: 0.0913613 sec
+Read Frame, time: 0.375112 sec
+Read Frame, time: 0.279721 sec
+Read Frame, time: 0.0829755 sec
+Features in image #2: 2512
+Read Frame, time: 0.192805 sec
+Features in image #3: 1733
+Features in image #4: 944
+Read Frame, time: 0.232335 sec
+Read Frame, time: 0.113212 sec
+Features in image #5: 1130
+Read Frame, time: 0.271261 sec
+Read Frame, time: 0.277505 sec
+Read Frame, time: 0.124675 sec
+Read Frame, time: 0.235385 sec
+Features in image #6: 1172
+Finding features, time: 6.94476 sec
+Pairwise matching
+1->2 matches: 46
+
+1->2 matches: 208
+1->2 & 2->1 matches: 63
+.
+1->2 matches: 11
+
+1->2 matches: 65
+1->2 & 2->1 matches: 332
+.
+1->2 matches: 30
+1->2 & 2->1 matches: 101
+.1->2 & 2->1 matches: 20
+1->2 & 2->1 matches: 47
+.
+1->2 matches: 220
+
+1->2 matches: 15
+
+1->2 matches: 136
+1->2 & 2->1 matches: 320
+.1->2 & 2->1 matches: 191
+..
+1->2 matches: 16
+1->2 & 2->1 matches: 41
+
+1->2 matches: 174
+
+1->2 matches: 17
+1->2 & 2->1 matches: 21
+1->2 & 2->1 matches: 213
+.1->2 & 2->1 matches: 24
+..
+1->2 matches: 24
+.
+1->2 matches: 6
+1->2 & 2->1 matches: 30
+1->2 & 2->1 matches: 19
+
+1->2 matches: 16
+.1->2 & 2->1 matches: 42
+
+1->2 matches: 9
+1->2 & 2->1 matches: 17
+...Pairwise matching, time: 1.27294 sec
+Estimating rotations...
+Estimating rotations, time: 0.000117631 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 6.55259e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Read Frame, time: 0.13296 sec
+Read Frame, time: 0.126628 sec
+Read Frame, time: 0.0992196 sec
+Warping images, time: 0.565872 sec
+Exposure compensation...
+Read Frame, time: 0.0934546 sec
+Read Frame, time: 0.10561 sec
+Read Frame, time: 0.10479 sec
+Read Frame, time: 0.108014 sec
+Read Frame, time: 0.118063 sec
+Read Frame, time: 0.109666 sec
+Read Frame, time: 0.108225 sec
+Read Frame, time: 0.106892 sec
+Exposure compensation, time: 2.6748 sec
+Finding seams...
+Read Frame, time: 0.108007 sec
+Read Frame, time: 0.126395 sec
+Read Frame, time: 0.122908 sec
+Read Frame, time: 0.127649 sec
+Read Frame, time: 0.117302 sec
+Read Frame, time: 0.122567 sec
+Read Frame, time: 0.129731 sec
+Read Frame, time: 0.120477 sec
+Read Frame, time: 0.133684 sec
+Read Frame, time: 0.129984 sec
+Read Frame, time: 0.116289 sec
+Read Frame, time: 0.14077 sec
+Read Frame, time: 0.12926 sec
+Finding seams, time: 5.44431 sec
+Compositing...
+Read Frame, time: 0.129084 sec
+Read Frame, time: 0.126667 sec
+Read Frame, time: 0.142894 sec
+1 5   1
+Read Frame, time: 0.13902 sec
+Read Frame, time: 0.138324 sec
+Read Frame, time: 0.149153 sec
+2 5   2
+3 5   3
+Read Frame, time: 0.138458 sec
+Read Frame, time: 0.13982 sec
+Read Frame, time: 0.143192 sec
+Read Frame, time: 0.138684 sec
+Read Frame, time: 0.156716 sec
+Read Frame, time: 0.132089 sec
+4 5   4
+Read Frame, time: 0.146451 sec
+Read Frame, time: 0.179618 sec
+Read Frame, time: 0.143278 sec
+Read Frame, time: 0.141354 sec
+Read Frame, time: 0.158575 sec
+Read Frame, time: 0.148097 sec
+5 5   6
+Read Frame, time: 0.176446 sec
+Read Frame, time: 0.161434 sec
+Read Frame, time: 0.167676 sec
+Read Frame, time: 0.164136 sec
+Read Frame, time: 0.154207 sec
+Read Frame, time: 0.147592 sec
+Read Frame, time: 0.169754 sec
+Read Frame, time: 0.158937 sec
+Read Frame, time: 0.17196 sec
+Read Frame, time: 0.445562 sec
+Read Frame, time: 0.180041 sec
+6 5   6
+Compositing, time: 11.7831 sec
+Finished, total time: 28.9284 sec
+[8059 x 1114]  6  [8059 x 1114]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+Read Frame, time: 0.157207 sec
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.164765 sec
+Read Frame, time: 0.163958 sec
+Read Frame, time: 0.168592 sec
+Read Frame, time: 0.155919 sec
+Read Frame, time: 0.163542 sec
+Read Frame, time: 0.162811 sec
+Stitching Statistic Per is : 10
+
+Finding features...
+Features in image #1: 1255
+Read Frame, time: 0.379101 sec
+Read Frame, time: 0.217934 sec
+Read Frame, time: 0.284762 sec
+Read Frame, time: 0.452249 sec
+Features in image #2: 2535
+Read Frame, time: 0.159513 sec
+Read Frame, time: 0.173662 sec
+Features in image #3: 1725
+Features in image #4: 973
+Read Frame, time: 0.129106 sec
+Read Frame, time: 0.156697 sec
+Read Frame, time: 0.0602641 sec
+Read Frame, time: 0.0506638 sec
+Read Frame, time: 0.158909 sec
+Features in image #5: 1117
+Read Frame, time: 0.0830742 sec
+Features in image #6: 1176
+Finding features, time: 6.54197 sec
+Pairwise matching
+1->2 matches: 57
+
+1->2 matches: 60
+
+1->2 matches: 188
+1->2 & 2->1 matches: 79
+.
+1->2 matches: 11
+
+1->2 matches: 28
+1->2 & 2->1 matches: 327
+.1->2 & 2->1 matches: 18
+.1->2 & 2->1 matches: 100
+.
+1->2 matches: 136
+
+1->2 matches: 22
+1->2 & 2->1 matches: 197
+.1->2 & 2->1 matches: 54
+
+1->2 matches: 207
+1->2 & 2->1 matches: 43
+1->2 & 2->1 matches: 304
+.
+1->2 matches: 25
+.1->2 & 2->1 matches: 37
+
+1->2 matches: 21
+
+1->2 matches: 13
+1->2 & 2->1 matches: 35
+1->2 & 2->1 matches: 27
+....
+1->2 matches: 165
+
+1->2 matches: 63
+1->2 & 2->1 matches: 208
+.1->2 & 2->1 matches: 72
+
+1->2 matches: 16
+
+1->2 matches: 28
+.1->2 & 2->1 matches: 27
+1->2 & 2->1 matches: 45
+Read Frame, time: 0.0561952 sec
+Read Frame, time: 0.0637303 sec
+.Read Frame, time: 0.0574291 sec
+.Pairwise matching, time: 1.16437 sec
+Estimating rotations...
+Estimating rotations, time: 0.000114473 sec
+Saving 31...
+Saving 32...
+Read Frame, time: 0.0768686 sec
+Read Frame, time: 0.0738213 sec
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.13155e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Read Frame, time: 0.0588663 sec
+Warping images, time: 0.476593 sec
+Exposure compensation...
+Exposure compensation, time: 0.558241 sec
+Finding seams...
+Finding seams, time: 0.298867 sec
+Compositing...
+Read Frame, time: 0.0717386 sec
+Read Frame, time: 0.0637026 sec
+Read Frame, time: 0.0609841 sec
+Read Frame, time: 0.0594186 sec
+Read Frame, time: 0.0843733 sec
+Read Frame, time: 0.0701261 sec
+1 5   1
+2 5   2
+Read Frame, time: 0.0785983 sec
+Read Frame, time: 0.082383 sec
+Read Frame, time: 0.0756244 sec
+Read Frame, time: 0.0685137 sec
+3 5   3
+Read Frame, time: 0.0765907 sec
+Read Frame, time: 0.0888531 sec
+4 5   4
+5 5   6
+Read Frame, time: 0.0804054 sec
+Read Frame, time: 0.0844961 sec
+Read Frame, time: 0.0856068 sec
+Read Frame, time: 0.0762177 sec
+Read Frame, time: 0.077377 sec
+Read Frame, time: 0.0788581 sec
+Read Frame, time: 0.081937 sec
+Read Frame, time: 0.0897792 sec
+Read Frame, time: 0.186108 sec
+Read Frame, time: 0.159868 sec
+Read Frame, time: 0.0880455 sec
+Read Frame, time: 0.079927 sec
+6 5   6
+Compositing, time: 6.54433 sec
+Finished, total time: 15.8224 sec
+[8041 x 1104]  6  [8041 x 1104]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.168601 sec
+Read Frame, time: 0.160292 sec
+Read Frame, time: 0.152328 sec
+Read Frame, time: 0.127474 sec
+Read Frame, time: 0.129323 sec
+Read Frame, time: 0.128443 sec
+Stitching Statistic Per is : 11
+
+Finding features...
+Read Frame, time: 0.533595 sec
+Read Frame, time: 0.171457 sec
+Features in image #1: 1277
+Read Frame, time: 0.382691 sec
+Read Frame, time: 0.314265 sec
+Read Frame, time: 0.148285 sec
+Read Frame, time: 0.0991506 sec
+Features in image #2: 2538
+Read Frame, time: 0.161967 sec
+Read Frame, time: 0.112817 sec
+Read Frame, time: 0.117599 sec
+Features in image #3: 1729
+Read Frame, time: 0.0975997 sec
+Read Frame, time: 0.317477 sec
+Read Frame, time: 0.157871 sec
+Features in image #4: 931
+Features in image #5: 1140
+Read Frame, time: 0.292694 sec
+Read Frame, time: 0.158719 sec
+Read Frame, time: 0.115318 sec
+Read Frame, time: 0.226105 sec
+Features in image #6: 1172
+Finding features, time: 6.81292 sec
+Pairwise matching
+1->2 matches: 43
+
+1->2 matches: 64
+
+1->2 matches: 18
+1->2 & 2->1 matches: 59
+
+1->2 matches: 198
+.1->2 & 2->1 matches: 98
+.Read Frame, time: 0.238979 sec
+
+1->2 matches: 7
+1->2 & 2->1 matches: 336
+1->2 & 2->1 matches: 14
+.
+1->2 matches: 229
+1->2 & 2->1 matches: 29
+
+1->2 matches: 22
+.1->2 & 2->1 matches: 321
+.
+1->2 matches: 130
+1->2 & 2->1 matches: 56
+Read Frame, time: 0.236471 sec
+1->2 & 2->1 matches: 178
+.
+1->2 matches: 39
+1->2 & 2->1 matches: 51
+..
+1->2 matches: 14
+
+1->2 matches: 12
+.
+1->2 matches: 37
+1->2 & 2->1 matches: 26
+1->2 & 2->1 matches: 21
+
+1->2 matches: 168
+1->2 & 2->1 matches: 47
+...1->2 & 2->1 matches: 208
+.
+1->2 matches: 13
+1->2 & 2->1 matches: 26
+.
+1->2 matches: 26
+1->2 & 2->1 matches: 52
+.Pairwise matching, time: 1.27845 sec
+Estimating rotations...
+Estimating rotations, time: 0.000106578 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.8026e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.286771 sec
+Exposure compensation...
+Read Frame, time: 0.131472 sec
+Read Frame, time: 0.120806 sec
+Read Frame, time: 0.119202 sec
+Read Frame, time: 0.119716 sec
+Read Frame, time: 0.126168 sec
+Read Frame, time: 0.11733 sec
+Exposure compensation, time: 1.82838 sec
+Finding seams...
+Read Frame, time: 0.13355 sec
+Read Frame, time: 0.13075 sec
+Read Frame, time: 0.139797 sec
+Read Frame, time: 0.121998 sec
+Read Frame, time: 0.147603 sec
+Read Frame, time: 0.123362 sec
+Read Frame, time: 0.138909 sec
+Read Frame, time: 0.144302 sec
+Read Frame, time: 0.14201 sec
+Read Frame, time: 0.199815 sec
+Read Frame, time: 0.132885 sec
+Read Frame, time: 0.124755 sec
+Read Frame, time: 0.149018 sec
+Read Frame, time: 0.140487 sec
+Read Frame, time: 0.159001 sec
+Read Frame, time: 0.146706 sec
+Read Frame, time: 0.14936 sec
+Read Frame, time: 0.138066 sec
+Read Frame, time: 0.153673 sec
+Read Frame, time: 0.15941 sec
+Read Frame, time: 0.154376 sec
+Read Frame, time: 0.152783 sec
+Read Frame, time: 0.157115 sec
+Read Frame, time: 0.154604 sec
+Finding seams, time: 6.91586 sec
+Compositing...
+1 5   1
+2 5   2
+Read Frame, time: 0.175908 sec
+Read Frame, time: 0.154185 sec
+Read Frame, time: 0.214092 sec
+3 5   3
+Read Frame, time: 0.161816 sec
+Read Frame, time: 0.164965 sec
+Read Frame, time: 0.151448 sec
+4 5   4
+Read Frame, time: 0.193104 sec
+Read Frame, time: 0.197546 sec
+Read Frame, time: 0.172277 sec
+Read Frame, time: 0.161768 sec
+Read Frame, time: 0.156475 sec
+Read Frame, time: 0.158779 sec
+5 5   6
+Read Frame, time: 0.0615766 sec
+Read Frame, time: 0.0677937 sec
+Read Frame, time: 0.0586757 sec
+Read Frame, time: 0.0513099 sec
+Read Frame, time: 0.0550137 sec
+Read Frame, time: 0.0552474 sec
+Read Frame, time: 0.0626586 sec
+Read Frame, time: 0.0622469 sec
+Read Frame, time: 0.0648103 sec
+Read Frame, time: 0.0615296 sec
+Read Frame, time: 0.0651995 sec
+Read Frame, time: 0.0604804 sec
+6 5   6
+Compositing, time: 8.57242 sec
+Finished, total time: 25.8725 sec
+[8047 x 1108]  6  [8047 x 1108]
+Read Frame, time: 0.088203 sec
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+Read Frame, time: 0.0619883 sec
+Read Frame, time: 0.0630758 sec
+Read Frame, time: 0.0608179 sec
+Read Frame, time: 0.0632068 sec
+Read Frame, time: 0.0594932 sec
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.0684623 sec
+Read Frame, time: 0.075491 sec
+Read Frame, time: 0.0766002 sec
+Read Frame, time: 0.0676291 sec
+Read Frame, time: 0.0710688 sec
+Read Frame, time: 0.0667046 sec
+Stitching Statistic Per is : 12
+
+Finding features...
+Read Frame, time: 0.379223 sec
+Read Frame, time: 0.113433 sec
+Read Frame, time: 0.300151 sec
+Features in image #1: 1311
+Read Frame, time: 0.0809975 sec
+Read Frame, time: 0.356535 sec
+Read Frame, time: 0.101792 sec
+Features in image #2: 2519
+Features in image #3: 1726
+Read Frame, time: 0.254835 sec
+Read Frame, time: 0.119332 sec
+Read Frame, time: 0.100228 sec
+Read Frame, time: 0.238044 sec
+Features in image #4: 951
+Read Frame, time: 0.0891859 sec
+Read Frame, time: 0.116226 sec
+Features in image #5: 1129
+Features in image #6: 1216
+Finding features, time: 6.253 sec
+Pairwise matching
+1->2 matches: 52
+
+1->2 matches: 89
+
+1->2 matches: 208
+
+1->2 matches: 50
+1->2 & 2->1 matches: 67
+.1->2 & 2->1 matches: 122
+.
+1->2 matches: 18
+1->2 & 2->1 matches: 62
+1->2 & 2->1 matches: 35
+
+1->2 matches: 207
+1->2 & 2->1 matches: 337
+..1->2 & 2->1 matches: 302
+
+1->2 matches: 167
+..1->2 & 2->1 matches: 207
+.
+1->2 matches: 41
+
+1->2 matches: 13
+
+1->2 matches: 149
+
+1->2 matches: 27
+1->2 & 2->1 matches: 39
+1->2 & 2->1 matches: 51
+1->2 & 2->1 matches: 202
+Read Frame, time: 0.174344 sec
+.1->2 & 2->1 matches: 40
+.
+1->2 matches: 36
+..
+1->2 matches: 31
+1->2 & 2->1 matches: 45
+
+1->2 matches: 24
+
+1->2 matches: 14
+1->2 & 2->1 matches: 65
+1->2 & 2->1 matches: 40
+Read Frame, time: 0.246095 sec
+1->2 & 2->1 matches: 31
+...Read Frame, time: 0.197167 sec
+.Pairwise matching, time: 1.17371 sec
+Estimating rotations...
+Estimating rotations, time: 0.000116052 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.84207e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Read Frame, time: 0.107703 sec
+Read Frame, time: 0.0958099 sec
+Warping images, time: 0.407878 sec
+Exposure compensation...
+Read Frame, time: 0.101483 sec
+Read Frame, time: 0.100625 sec
+Read Frame, time: 0.10316 sec
+Exposure compensation, time: 1.39763 sec
+Finding seams...
+Read Frame, time: 0.100716 sec
+Read Frame, time: 0.100495 sec
+Read Frame, time: 0.101845 sec
+Read Frame, time: 0.101452 sec
+Read Frame, time: 0.100735 sec
+Read Frame, time: 0.113229 sec
+Read Frame, time: 0.106008 sec
+Read Frame, time: 0.107942 sec
+Read Frame, time: 0.100172 sec
+Read Frame, time: 0.10234 sec
+Read Frame, time: 0.227016 sec
+Read Frame, time: 0.234035 sec
+Read Frame, time: 0.212405 sec
+Read Frame, time: 0.176534 sec
+Read Frame, time: 0.247452 sec
+Finding seams, time: 5.27866 sec
+Compositing...
+Read Frame, time: 0.163604 sec
+1 5   1
+2 5   2
+Read Frame, time: 0.163934 sec
+Read Frame, time: 0.141763 sec
+Read Frame, time: 0.139928 sec
+Read Frame, time: 0.151683 sec
+3 5   3
+Read Frame, time: 0.145108 sec
+Read Frame, time: 0.127069 sec
+4 5   4
+Read Frame, time: 0.137466 sec
+Read Frame, time: 0.137475 sec
+Read Frame, time: 0.133226 sec
+Read Frame, time: 0.134532 sec
+Read Frame, time: 0.127559 sec
+Read Frame, time: 0.13401 sec
+Read Frame, time: 0.183557 sec
+Read Frame, time: 0.151462 sec
+5 5   6
+Read Frame, time: 0.171221 sec
+Read Frame, time: 0.161747 sec
+Read Frame, time: 0.138946 sec
+Read Frame, time: 0.152955 sec
+Stitching ave Frame, time: 0.431437 sec
+'
+
+Stitching t1 Frame, time: 1.34946 sec
+'
+
+Stitching ave + t1 Frame, time: 1.7809 sec
+'
+
+6 5   6
+Compositing, time: 8.90729 sec
+Finished, total time: 23.6403 sec
+[8043 x 1106]  6  [8043 x 1106]
+Stitching Statistic is : 12
+
+Stitching Statistic Per is : 1
+
+Finding features...
+Features in image #1: 1309
+Features in image #2: 2530
+Features in image #3: 1677
+Features in image #4: 938
+Features in image #5: 1153
+Features in image #6: 1214
+Finding features, time: 3.9739 sec
+Pairwise matching
+1->2 matches: 48
+
+1->2 matches: 66
+
+1->2 matches: 185
+1->2 & 2->1 matches: 77
+.
+1->2 matches: 36
+
+1->2 matches: 10
+
+1->2 matches: 155
+1->2 & 2->1 matches: 87
+1->2 & 2->1 matches: 338
+1->2 & 2->1 matches: 52
+..1->2 & 2->1 matches: 28
+.
+1->2 matches: 16
+1->2 & 2->1 matches: 220
+.
+1->2 matches: 211
+1->2 & 2->1 matches: 43
+.1->2 & 2->1 matches: 291
+.
+1->2 matches: 167
+1->2 & 2->1 matches: 207
+.
+1->2 matches: 43
+.
+1->2 matches: 22
+1->2 & 2->1 matches: 58
+
+1->2 matches: 16
+
+1->2 matches: 14
+1->2 & 2->1 matches: 32
+1->2 & 2->1 matches: 33
+1->2 & 2->1 matches: 29
+..
+1->2 matches: 26
+..
+1->2 matches: 71
+1->2 & 2->1 matches: 48
+1->2 & 2->1 matches: 81
+..Pairwise matching, time: 0.771714 sec
+Estimating rotations...
+Estimating rotations, time: 0.000110526 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 4.97365e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.191155 sec
+Exposure compensation...
+Exposure compensation, time: 0.778816 sec
+Finding seams...
+Finding seams, time: 1.94395 sec
+Compositing...
+1 5   1
+2 5   2
+3 5   3
+4 5   4
+5 5   6
+6 5   6
+Compositing, time: 4.18629 sec
+Finished, total time: 11.9578 sec
+[8047 x 1106]  6  [8047 x 1106]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.0447806 sec
+Read Frame, time: 0.0449812 sec
+Read Frame, time: 0.0424655 sec
+Read Frame, time: 0.0407216 sec
+Read Frame, time: 0.0477704 sec
+Read Frame, time: 0.0438937 sec
+Read Frame, time: 0.0370506 sec
+Read Frame, time: 0.0353844 sec
+Read Frame, time: 0.0355624 sec
+Read Frame, time: 0.0368283 sec
+Read Frame, time: 0.040589 sec
+Stitching Statistic Per is : 2
+
+Finding features...
+Read Frame, time: 0.0437425 sec
+Features in image #1: 1263
+Read Frame, time: 0.0782024 sec
+Read Frame, time: 0.0411104 sec
+Read Frame, time: 0.0693667 sec
+Read Frame, time: 0.0382383 sec
+Read Frame, time: 0.0355533 sec
+Features in image #2: 2537
+Read Frame, time: 0.108802 sec
+Features in image #3: 1691
+Read Frame, time: 0.0429582 sec
+Read Frame, time: 0.0369957 sec
+Features in image #4: 930
+Read Frame, time: 0.0481548 sec
+Read Frame, time: 0.159602 sec
+Read Frame, time: 0.0428492 sec
+Read Frame, time: 0.0383638 sec
+Features in image #5: 1118
+Features in image #6: 1173
+Finding features, time: 5.63007 sec
+Pairwise matching
+1->2 matches: 42
+
+1->2 matches: 63
+
+1->2 matches: 186
+1->2 & 2->1 matches: 58
+.
+1->2 matches: 28
+
+1->2 matches: 10
+
+1->2 matches: 142
+1->2 & 2->1 matches: 95
+1->2 & 2->1 matches: 308
+..1->2 & 2->1 matches: 25
+
+1->2 matches: 18
+1->2 & 2->1 matches: 44
+1->2 & 2->1 matches: 185
+1->2 & 2->1 matches: 38
+.
+1->2 matches: 243
+1->2 & 2->1 matches: 329
+..
+1->2 matches: 165
+
+1->2 matches: 28
+.1->2 & 2->1 matches: 213
+.1->2 & 2->1 matches: 47
+Read Frame, time: 0.0960578 sec
+.
+1->2 matches: 16
+
+1->2 matches: 13
+
+1->2 matches: 13
+1->2 & 2->1 matches: 32
+1->2 & 2->1 matches: 24
+Read Frame, time: 0.0879413 sec
+1->2 & 2->1 matches: 25
+...Read Frame, time: 0.0434303 sec
+
+1->2 matches: 25
+1->2 & 2->1 matches: 49
+Read Frame, time: 0.0475762 sec
+.Read Frame, time: 0.0426562 sec
+.
+1->2 matches: 66
+1->2 & 2->1 matches: 74
+.Pairwise matching, time: 1.09956 sec
+Estimating rotations...
+Estimating rotations, time: 0.000110526 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.13155e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Read Frame, time: 0.0529903 sec
+Warping images, time: 0.431654 sec
+Exposure compensation...
+Read Frame, time: 0.0421833 sec
+Read Frame, time: 0.046478 sec
+Read Frame, time: 0.0481655 sec
+Read Frame, time: 0.0430679 sec
+Read Frame, time: 0.0438526 sec
+Read Frame, time: 0.0428239 sec
+Exposure compensation, time: 1.39678 sec
+Finding seams...
+Read Frame, time: 0.0512053 sec
+Read Frame, time: 0.0510514 sec
+Read Frame, time: 0.0462171 sec
+Read Frame, time: 0.0487714 sec
+Read Frame, time: 0.047659 sec
+Read Frame, time: 0.0487233 sec
+Finding seams, time: 1.62739 sec
+Compositing...
+Read Frame, time: 0.0564052 sec
+Read Frame, time: 0.0602507 sec
+Read Frame, time: 0.0539211 sec
+Read Frame, time: 0.0521839 sec
+Read Frame, time: 0.0552628 sec
+1 5   1
+Read Frame, time: 0.0616244 sec
+2 5   2
+3 5   3
+Read Frame, time: 0.0678541 sec
+Read Frame, time: 0.0644601 sec
+Read Frame, time: 0.0642032 sec
+Read Frame, time: 0.0636418 sec
+Read Frame, time: 0.0646003 sec
+4 5   4
+Read Frame, time: 0.0603616 sec
+Read Frame, time: 0.083838 sec
+Read Frame, time: 0.0655437 sec
+Read Frame, time: 0.0700235 sec
+Read Frame, time: 0.0663442 sec
+Read Frame, time: 0.0670393 sec
+Read Frame, time: 0.0628429 sec
+5 5   6
+Read Frame, time: 0.0762141 sec
+Read Frame, time: 0.0725739 sec
+Read Frame, time: 0.0745136 sec
+Read Frame, time: 0.0693142 sec
+Read Frame, time: 0.0713482 sec
+Read Frame, time: 0.0693896 sec
+Read Frame, time: 0.0788146 sec
+Read Frame, time: 0.0844282 sec
+Read Frame, time: 0.0852524 sec
+Read Frame, time: 0.0786769 sec
+Read Frame, time: 0.0808838 sec
+Read Frame, time: 0.180157 sec
+6 5   6
+Compositing, time: 7.63123 sec
+Finished, total time: 18.0411 sec
+[8053 x 1107]  6  [8053 x 1107]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time: 0.209362 sec
+Read Frame, time: 0.161249 sec
+Read Frame, time: 0.16291 sec
+Read Frame, time: 0.155545 sec
+Read Frame, time: 0.134855 sec
+Read Frame, time: 0.129249 sec
+Stitching Statistic Per is : 3
+
+Finding features...
+Read Frame, time: 0.307138 sec
+Read Frame, time: 0.221202 sec
+Read Frame, time: 0.335382 sec
+Features in image #1: 1294
+Read Frame, time: 0.128134 sec
+Read Frame, time: 0.393007 sec
+Read Frame, time: 0.252077 sec
+Features in image #2: 2544
+Features in image #3: 1701
+Read Frame, time: 0.0994316 sec
+Features in image #4: 941
+Read Frame, time: 0.234509 sec
+Read Frame, time: 0.294767 sec
+Read Frame, time: 0.101441 sec
+Read Frame, time: 0.230482 sec
+Features in image #5: 1120
+Read Frame, time: 0.176892 sec
+Features in image #6: 1140
+Finding features, time: 6.96719 sec
+Pairwise matching
+1->2 matches: 56
+
+1->2 matches: 85
+
+1->2 matches: 181
+1->2 & 2->1 matches: 107
+.1->2 & 2->1 matches: 70
+.1->2 & 2->1 matches: 308
+.
+1->2 matches: 53
+
+1->2 matches: 19
+
+1->2 matches: 11
+
+1->2 matches: 227
+
+1->2 matches: 157
+1->2 & 2->1 matches: 38
+1->2 & 2->1 matches: 205
+1->2 & 2->1 matches: 27
+1->2 & 2->1 matches: 66
+.1->2 & 2->1 matches: 315
+..
+1->2 matches: 50
+
+1->2 matches: 34
+
+1->2 matches: 13
+.1->2 & 2->1 matches: 45
+..1->2 & 2->1 matches: 28
+
+1->2 matches: 165
+1->2 & 2->1 matches: 64
+1->2 & 2->1 matches: 208
+.
+1->2 matches: 14
+.Read Frame, time: 0.155212 sec
+1->2 & 2->1 matches: 27
+.
+1->2 matches: 31
+.Read Frame, time: 0.174391 sec
+1->2 & 2->1 matches: 36
+
+1->2 matches: 37
+.Read Frame, time: 0.125119 sec
+1->2 & 2->1 matches: 58
+Read Frame, time: 0.112947 sec
+Read Frame, time: 0.105714 sec
+.Pairwise matching, time: 1.45647 sec
+Estimating rotations...
+Estimating rotations, time: 0.000119605 sec
+Saving 31...
+Saving 32...
+Read Frame, time: 0.111023 sec
+Read Frame, time: 0.123763 sec
+Read Frame, time: 0.122568 sec
+Read Frame, time: 0.113634 sec
+Read Frame, time: 0.110455 sec
+Read Frame, time: 0.110589 sec
+Read Frame, time: 0.121999 sec
+Read Frame, time: 0.106756 sec
+Read Frame, time: 0.10728 sec
+Read Frame, time: 0.112459 sec
+Read Frame, time: 0.109725 sec
+Read Frame, time: 0.106523 sec
+Read Frame, time: 0.108835 sec
+Read Frame, time: 0.122721 sec
+Read Frame, time: 0.121835 sec
+Read Frame, time: 0.124572 sec
+Read Frame, time: 0.117829 sec
+Read Frame, time: 0.119229 sec
+Read Frame, time: 0.120651 sec
+Read Frame, time: 0.144109 sec
+Read Frame, time: 0.141997 sec
+Read Frame, time: 0.146567 sec
+Read Frame, time: 0.14372 sec
+Read Frame, time: 0.144335 sec
+Read Frame, time: 0.21024 sec
+Read Frame, time: 0.130144 sec
+Read Frame, time: 0.130614 sec
+Read Frame, time: 0.131406 sec
+Read Frame, time: 0.126374 sec
+Read Frame, time: 0.131824 sec
+Read Frame, time: 0.134571 sec
+Read Frame, time: 0.135716 sec
+Read Frame, time: 0.137412 sec
+Read Frame, time: 0.149312 sec
+Read Frame, time: 0.163983 sec
+Read Frame, time: 0.154407 sec
+Read Frame, time: 0.154553 sec
+Read Frame, time: 0.0537257 sec
+Read Frame, time: 0.0513778 sec
+Read Frame, time: 0.0542085 sec
+Read Frame, time: 0.0538635 sec
+Read Frame, time: 0.0556291 sec
+Read Frame, time: 0.0512681 sec
+Read Frame, time: 0.0533527 sec
+Read Frame, time: 0.0573415 sec
+Read Frame, time: 0.0509164 sec
+Read Frame, time: 0.0526461 sec
+Read Frame, time: 0.0523994 sec
+Read Frame, time: 0.0529876 sec
+Read Frame, time: 0.0597537 sec
+Read Frame, time: 0.0616342 sec
+Read Frame, time: 0.0618186 sec
+Read Frame, time: 0.0577867 sec
+Read Frame, time: 0.0574327 sec
+Read Frame, time: 0.061528 sec
+Read Frame, time: 0.0785044 sec
+Read Frame, time: 0.0713313 sec
+Read Frame, time: 0.0775353 sec
+Read Frame, time: 0.0726382 sec
+Read Frame, time: 0.0745934 sec
+Read Frame, time: 0.0773723 sec
+Read Frame, time: 0.0711142 sec
+Read Frame, time: 0.0713506 sec
+Read Frame, time: 0.0821095 sec
+Read Frame, time: 0.0754243 sec
+Read Frame, time: 0.0822666 sec
+Read Frame, time: 0.0753808 sec
+Read Frame, time: 0.0740391 sec
+Read Frame, time: 0.0723623 sec
+Read Frame, time: 0.0742022 sec
+Read Frame, time: 0.0860379 sec
+Read Frame, time: 0.0803166 sec
+Read Frame, time: 0.0896983 sec
+Read Frame, time: 0.0920971 sec
+Read Frame, time: 0.0982214 sec
+Read Frame, time: 0.10146 sec
+Read Frame, time: 0.0990223 sec
+Read Frame, time: 0.0882993 sec
+Read Frame, time: 0.0903973 sec
+Read Frame, time: 0.099511 sec
+Read Frame, time: 0.0953978 sec
+Read Frame, time: 0.0910052 sec
+Read Frame, time: 0.0918756 sec
+Read Frame, time: 0.08879 sec
+Read Frame, time: 0.0890805 sec
+Read Frame, time: 0.0916309 sec
+Read Frame, time: 0.0976383 sec
+Read Frame, time: 0.097392 sec
+Read Frame, time: 0.0876997 sec
+Read Frame, time: 0.0916364 sec
+Read Frame, time: 0.107098 sec
+Read Frame, time: 0.116018 sec
+Read Frame, time: 0.109967 sec
+Read Frame, time: 0.117377 sec
+Read Frame, time: 0.114762 sec
+Read Frame, time: 0.117544 sec
+Read Frame, time: 0.117889 sec
+Read Frame, time: 0.129236 sec
+Read Frame, time: 0.128404 sec
+Read Frame, time: 0.116622 sec
+Read Frame, time: 0.105038 sec
+Read Frame, time: 0.116624 sec
+Read Frame, time: 0.123968 sec
+Read Frame, time: 0.111202 sec
+Read Frame, time: 0.112187 sec
+Read Frame, time: 0.121478 sec
+Read Frame, time: 0.113366 sec
+Read Frame, time: 0.110527 sec
+Read Frame, time: 0.129463 sec
+Read Frame, time: 0.150239 sec
+Read Frame, time: 0.137428 sec
+Read Frame, time: 0.143141 sec
+Read Frame, time: 0.13919 sec
+Read Frame, time: 0.136874 sec
+Read Frame, time: 0.139528 sec
+Read Frame, time: 0.147091 sec
+Read Frame, time: 0.142455 sec
+Read Frame, time: 0.128602 sec
+Read Frame, time: 0.134331 sec
+Read Frame, time: 0.135682 sec
+Read Frame, time: 0.133372 sec
+Read Frame, time: 0.132799 sec
+Read Frame, time: 0.135581 sec
+Read Frame, time: 0.137809 sec
+Read Frame, time: 0.13373 sec
+Read Frame, time: 0.132007 sec
+Read Frame, time: 0.153098 sec
+Read Frame, time: 0.15023 sec
+Read Frame, time: 0.158297 sec
+Read Frame, time: 0.157531 sec
+Read Frame, time: 0.16126 sec
+Read Frame, time: 0.150005 sec
+Read Frame, time: 0.161145 sec
+Read Frame, time: 0.0517343 sec
+Read Frame, time: 0.0546166 sec
+Read Frame, time: 0.0637575 sec
+Read Frame, time: 0.0536191 sec
+Read Frame, time: 0.0548251 sec
+Read Frame, time: 0.0483084 sec
+Read Frame, time: 0.0554349 sec
+Read Frame, time: 0.058322 sec
+Read Frame, time: 0.0614096 sec
+Read Frame, time: 0.0538441 sec
+Read Frame, time: 0.0601741 sec
+Read Frame, time: 0.0525139 sec
+Read Frame, time: 0.0636564 sec
+Read Frame, time: 0.06144 sec
+Read Frame, time: 0.0656297 sec
+Read Frame, time: 0.0604453 sec
+Read Frame, time: 0.0642004 sec
+Read Frame, time: 0.0608712 sec
+Read Frame, time: 0.0687031 sec
+Read Frame, time: 0.0685583 sec
+Read Frame, time: 0.0730784 sec
+Read Frame, time: 0.0682176 sec
+Read Frame, time: 0.0662052 sec
+Read Frame, time: 0.0700219 sec
+Read Frame, time: 0.0672031 sec
+Read Frame, time: 0.0718768 sec
+Read Frame, time: 0.0686281 sec
+Read Frame, time: 0.0670981 sec
+Read Frame, time: 0.06774 sec
+Read Frame, time: 0.0695834 sec
+Read Frame, time: 0.0931743 sec
+Read Frame, time: 0.0853593 sec
+Read Frame, time: 0.0866667 sec
+Read Frame, time: 0.0801342 sec
+Read Frame, time: 0.0797391 sec
+Read Frame, time: 0.0820712 sec
+Read Frame, time: 0.0987172 sec
+Read Frame, time: 0.0945673 sec
+Read Frame, time: 0.10177 sec
+Read Frame, time: 0.0886214 sec
+Read Frame, time: 0.0901289 sec
+Read Frame, time: 0.0891602 sec
+Read Frame, time: 0.0918286 sec
+Read Frame, time: 0.0977548 sec
+Read Frame, time: 0.0970281 sec
+Read Frame, time: 0.100812 sec
+Read Frame, time: 0.0962244 sec
+Read Frame, time: 0.0945278 sec
+Read Frame, time: 0.102953 sec
+Read Frame, time: 0.10183 sec
+Read Frame, time: 0.112396 sec
+Read Frame, time: 0.105008 sec
+Read Frame, time: 0.102509 sec
+Read Frame, time: 0.100712 sec
+Read Frame, time: 0.120128 sec
+Read Frame, time: 0.11166 sec
+Read Frame, time: 0.115277 sec
+Read Frame, time: 0.0946561 sec
+Read Frame, time: 0.0975543 sec
+Read Frame, time: 0.098761 sec
+Read Frame, time: 0.100722 sec
+Read Frame, time: 0.0987641 sec
+Read Frame, time: 0.104302 sec
+Read Frame, time: 0.102227 sec
+Read Frame, time: 0.101483 sec
+Read Frame, time: 0.119273 sec
+Read Frame, time: 0.12548 sec
+Read Frame, time: 0.130078 sec
+Read Frame, time: 0.131856 sec
+Read Frame, time: 0.121174 sec
+Read Frame, time: 0.123521 sec
+Read Frame, time: 0.124799 sec
+Read Frame, time: 0.133104 sec
+Read Frame, time: 0.134762 sec
+Read Frame, time: 0.13738 sec
+Read Frame, time: 0.133033 sec
+Read Frame, time: 0.132039 sec
+Read Frame, time: 0.142577 sec
+Read Frame, time: 0.138458 sec
+Read Frame, time: 0.144571 sec
+Read Frame, time: 0.138403 sec
+Read Frame, time: 0.136394 sec
+Read Frame, time: 0.147369 sec
+Read Frame, time: 0.134901 sec
+Read Frame, time: 0.141676 sec
+Read Frame, time: 0.154388 sec
+Read Frame, time: 0.14957 sec
+Read Frame, time: 0.144683 sec
+Read Frame, time: 0.143911 sec
+Read Frame, time: 0.139498 sec
+Read Frame, time: 0.147478 sec
+Read Frame, time: 0.155257 sec
+Read Frame, time: 0.162228 sec
+Read Frame, time: 0.17017 sec
+Read Frame, time: 0.225118 sec
+Read Frame, time: 0.152664 sec
+Read Frame, time: 0.152585 sec
+Read Frame, time: 0.161357 sec
+Read Frame, time: 0.171023 sec
+Read Frame, time: 0.148093 sec
+Read Frame, time: 0.155513 sec
+Read Frame, time: 0.161021 sec
+Read Frame, time: 0.0512878 sec
+Read Frame, time: 0.0539298 sec
+Read Frame, time: 0.0536409 sec
+Read Frame, time: 0.049613 sec
+Read Frame, time: 0.0516447 sec
+Read Frame, time: 0.051141 sec
+Read Frame, time: 0.0735734 sec
+Read Frame, time: 0.0644882 sec
+Read Frame, time: 0.0630111 sec
+Read Frame, time: 0.0742965 sec
+Read Frame, time: 0.0615028 sec
+Read Frame, time: 0.0572858 sec
+Read Frame, time: 0.0642016 sec
+Read Frame, time: 0.0708236 sec
+Read Frame, time: 0.061204 sec
+Read Frame, time: 0.0656664 sec
+Read Frame, time: 0.0654608 sec
+Read Frame, time: 0.0628303 sec
+Read Frame, time: 0.0708276 sec
+Read Frame, time: 0.0756232 sec
+Read Frame, time: 0.073254 sec
+Read Frame, time: 0.0668593 sec
+Read Frame, time: 0.071439 sec
+Read Frame, time: 0.0668704 sec
+Read Frame, time: 0.0841972 sec
+Read Frame, time: 0.0768666 sec
+Read Frame, time: 0.0783943 sec
+Read Frame, time: 0.0811428 sec
+Read Frame, time: 0.0841365 sec
+Read Frame, time: 0.0774382 sec
+Read Frame, time: 0.0847862 sec
+Read Frame, time: 0.090586 sec
+Read Frame, time: 0.0839849 sec
+Read Frame, time: 0.0848758 sec
+Read Frame, time: 0.0905173 sec
+Read Frame, time: 0.0839801 sec
+Read Frame, time: 0.0938011 sec
+Read Frame, time: 0.0990981 sec
+Read Frame, time: 0.0989058 sec
+Read Frame, time: 0.0884675 sec
+Read Frame, time: 0.0891717 sec
+Read Frame, time: 0.0878876 sec
+Read Frame, time: 0.0978053 sec
+Read Frame, time: 0.100575 sec
+Read Frame, time: 0.102171 sec
+Read Frame, time: 0.1001 sec
+Read Frame, time: 0.1042 sec
+Read Frame, time: 0.103092 sec
+Read Frame, time: 0.106995 sec
+Read Frame, time: 0.103923 sec
+Read Frame, time: 0.108119 sec
+Read Frame, time: 0.101783 sec
+Read Frame, time: 0.103905 sec
+Read Frame, time: 0.102234 sec
+Read Frame, time: 0.11995 sec
+Read Frame, time: 0.115578 sec
+Read Frame, time: 0.119055 sec
+Read Frame, time: 0.113429 sec
+Read Frame, time: 0.115981 sec
+Read Frame, time: 0.114987 sec
+Read Frame, time: 0.119961 sec
+Read Frame, time: 0.123412 sec
+Read Frame, time: 0.120312 sec
+Read Frame, time: 0.1115 sec
+Read Frame, time: 0.118121 sec
+Read Frame, time: 0.143274 sec
+Read Frame, time: 0.128362 sec
+Read Frame, time: 0.137587 sec
+Read Frame, time: 0.131571 sec
+Read Frame, time: 0.12697 sec
+Read Frame, time: 0.126013 sec
+Read Frame, time: 0.12548 sec
+Read Frame, time: 0.135872 sec
+Read Frame, time: 0.137296 sec
+Read Frame, time: 0.137367 sec
+Read Frame, time: 0.130088 sec
+Read Frame, time: 0.132236 sec
+Read Frame, time: 0.150252 sec
+Read Frame, time: 0.141199 sec
+Read Frame, time: 0.145259 sec
+Read Frame, time: 0.15471 sec
+Read Frame, time: 0.15315 sec
+Read Frame, time: 0.160006 sec
+Read Frame, time: 0.140285 sec
+Read Frame, time: 0.149317 sec
+Read Frame, time: 0.152761 sec
+Read Frame, time: 0.157611 sec
+Read Frame, time: 0.149973 sec
+Read Frame, time: 0.149865 sec
+Read Frame, time: 0.159153 sec
+Read Frame, time: 0.154552 sec
+Read Frame, time: 0.157345 sec
+Read Frame, time: 0.1628 sec
+Read Frame, time: 0.151327 sec
+Read Frame, time: 0.153304 sec
+Read Frame, time: 0.158495 sec
+Read Frame, time: 0.165362 sec
+Read Frame, time: 0.166435 sec
+Read Frame, time: 0.160379 sec
+Read Frame, time: 0.155275 sec
+Read Frame, time: 0.16227 sec
+Read Frame, time: 0.166469 sec
+Read Frame, time: 0.0513581 sec
+Read Frame, time: 0.0570743 sec
+Read Frame, time: 0.0557985 sec
+Read Frame, time: 0.0522242 sec
+Read Frame, time: 0.0583263 sec
+Read Frame, time: 0.0519419 sec
+Read Frame, time: 0.0589619 sec
+Read Frame, time: 0.0607086 sec
+Read Frame, time: 0.0607836 sec
+Read Frame, time: 0.0592034 sec
+Read Frame, time: 0.0581408 sec
+Read Frame, time: 0.0606802 sec
+Read Frame, time: 0.0670472 sec
+Read Frame, time: 0.0681951 sec
+Read Frame, time: 0.0698822 sec
+Read Frame, time: 0.0651959 sec
+Read Frame, time: 0.067678 sec
+Read Frame, time: 0.0661977 sec
+Read Frame, time: 0.0755857 sec
+Read Frame, time: 0.0764064 sec
+Read Frame, time: 0.0750505 sec
+Read Frame, time: 0.0723746 sec
+Read Frame, time: 0.0762094 sec
+Read Frame, time: 0.0700405 sec
+Read Frame, time: 0.078596 sec
+Read Frame, time: 0.0803217 sec
+Read Frame, time: 0.0815162 sec
+Read Frame, time: 0.0817321 sec
+Read Frame, time: 0.0811527 sec
+Read Frame, time: 0.0793302 sec
+Read Frame, time: 0.0848367 sec
+Read Frame, time: 0.0911714 sec
+Read Frame, time: 0.087661 sec
+Read Frame, time: 0.0866805 sec
+Read Frame, time: 0.0898593 sec
+Read Frame, time: 0.0925257 sec
+Read Frame, time: 0.0962177 sec
+Read Frame, time: 0.0986962 sec
+Read Frame, time: 0.0968481 sec
+Read Frame, time: 0.0894168 sec
+Read Frame, time: 0.0910451 sec
+Read Frame, time: 0.0941398 sec
+Read Frame, time: 0.102625 sec
+Read Frame, time: 0.100243 sec
+Read Frame, time: 0.106641 sec
+Read Frame, time: 0.101641 sec
+Read Frame, time: 0.103323 sec
+Read Frame, time: 0.102301 sec
+Read Frame, time: 0.108164 sec
+Read Frame, time: 0.109161 sec
+Read Frame, time: 0.108958 sec
+Read Frame, time: 0.106242 sec
+Read Frame, time: 0.10226 sec
+Read Frame, time: 0.101624 sec
+Read Frame, time: 0.109502 sec
+Read Frame, time: 0.112515 sec
+Read Frame, time: 0.115161 sec
+Read Frame, time: 0.107274 sec
+Read Frame, time: 0.113238 sec
+Read Frame, time: 0.119395 sec
+Read Frame, time: 0.119263 sec
+Read Frame, time: 0.122264 sec
+Read Frame, time: 0.124755 sec
+Read Frame, time: 0.114601 sec
+Read Frame, time: 0.118238 sec
+Read Frame, time: 0.132263 sec
+Read Frame, time: 0.133325 sec
+Read Frame, time: 0.132451 sec
+Read Frame, time: 0.136163 sec
+Read Frame, time: 0.133153 sec
+Read Frame, time: 0.12675 sec
+Read Frame, time: 0.130212 sec
+Read Frame, time: 0.132827 sec
+Read Frame, time: 0.143872 sec
+Read Frame, time: 0.146208 sec
+Read Frame, time: 0.131519 sec
+Read Frame, time: 0.139107 sec
+Read Frame, time: 0.138305 sec
+Read Frame, time: 0.145056 sec
+Read Frame, time: 0.149821 sec
+Read Frame, time: 0.150108 sec
+Read Frame, time: 0.150444 sec
+Read Frame, time: 0.160269 sec
+Read Frame, time: 0.14124 sec
+Read Frame, time: 0.147249 sec
+Read Frame, time: 0.160148 sec
+Read Frame, time: 0.156054 sec
+Read Frame, time: 0.143588 sec
+Read Frame, time: 0.146931 sec
+Read Frame, time: 0.142887 sec
+Read Frame, time: 0.156285 sec
+Read Frame, time: 0.15665 sec
+Read Frame, time: 0.173438 sec
+Read Frame, time: 0.153844 sec
+Read Frame, time: 0.152772 sec
+Read Frame, time: 0.160769 sec
+Read Frame, time: 0.0491117 sec
+Read Frame, time: 0.0512472 sec
+Read Frame, time: 0.0502493 sec
+Read Frame, time: 0.0500953 sec
+Read Frame, time: 0.0493651 sec
+Read Frame, time: 0.0493307 sec
+Read Frame, time: 0.0609644 sec
+Read Frame, time: 0.0590945 sec
+Read Frame, time: 0.0598662 sec
+Read Frame, time: 0.0549853 sec
+Read Frame, time: 0.0553556 sec
+Read Frame, time: 0.0582877 sec
+Read Frame, time: 0.0618245 sec
+Read Frame, time: 0.0616165 sec
+Read Frame, time: 0.0662206 sec
+Read Frame, time: 0.0578073 sec
+Read Frame, time: 0.062734 sec
+Read Frame, time: 0.0641972 sec
+Read Frame, time: 0.0710798 sec
+Read Frame, time: 0.0690193 sec
+Read Frame, time: 0.0695842 sec
+Read Frame, time: 0.0727365 sec
+Read Frame, time: 0.0758143 sec
+Read Frame, time: 0.0721278 sec
+Read Frame, time: 0.0811104 sec
+Read Frame, time: 0.0804398 sec
+Read Frame, time: 0.0764849 sec
+Read Frame, time: 0.0728707 sec
+Read Frame, time: 0.0747714 sec
+Read Frame, time: 0.0771394 sec
+Read Frame, time: 0.0779036 sec
+Read Frame, time: 0.0857225 sec
+Read Frame, time: 0.0818529 sec
+Read Frame, time: 0.0766918 sec
+Read Frame, time: 0.0834125 sec
+Read Frame, time: 0.0827849 sec
+Read Frame, time: 0.090155 sec
+Read Frame, time: 0.0875888 sec
+Read Frame, time: 0.0902442 sec
+Read Frame, time: 0.0872797 sec
+Read Frame, time: 0.0895696 sec
+Read Frame, time: 0.0860268 sec
+Read Frame, time: 0.0967916 sec
+Read Frame, time: 0.098995 sec
+Read Frame, time: 0.102514 sec
+Read Frame, time: 0.0928494 sec
+Read Frame, time: 0.0945799 sec
+Read Frame, time: 0.0962126 sec
+Read Frame, time: 0.10312 sec
+Read Frame, time: 0.105121 sec
+Read Frame, time: 0.1101 sec
+Read Frame, time: 0.0997395 sec
+Read Frame, time: 0.108888 sec
+Read Frame, time: 0.100911 sec
+Read Frame, time: 0.13158 sec
+Read Frame, time: 0.119233 sec
+Read Frame, time: 0.120554 sec
+Read Frame, time: 0.11232 sec
+Read Frame, time: 0.108797 sec
+Read Frame, time: 0.125238 sec
+Read Frame, time: 0.110079 sec
+Read Frame, time: 0.120745 sec
+Read Frame, time: 0.117428 sec
+Read Frame, time: 0.108763 sec
+Read Frame, time: 0.115688 sec
+Read Frame, time: 0.112962 sec
+Read Frame, time: 0.117759 sec
+Read Frame, time: 0.123793 sec
+Read Frame, time: 0.130215 sec
+Read Frame, time: 0.12037 sec
+Read Frame, time: 0.122961 sec
+Read Frame, time: 0.125302 sec
+Read Frame, time: 0.143008 sec
+Read Frame, time: 0.135461 sec
+Read Frame, time: 0.136362 sec
+Read Frame, time: 0.137713 sec
+Read Frame, time: 0.140664 sec
+Read Frame, time: 0.141843 sec
+Read Frame, time: 0.136236 sec
+Read Frame, time: 0.14884 sec
+Read Frame, time: 0.149281 sec
+Read Frame, time: 0.143498 sec
+Read Frame, time: 0.137205 sec
+Read Frame, time: 0.139862 sec
+Read Frame, time: 0.170177 sec
+Read Frame, time: 0.151713 sec
+Read Frame, time: 0.148025 sec
+Read Frame, time: 0.140665 sec
+Read Frame, time: 0.146867 sec
+Read Frame, time: 0.143021 sec
+Read Frame, time: 0.152584 sec
+Read Frame, time: 0.161172 sec
+Read Frame, time: 0.166503 sec
+Read Frame, time: 0.155085 sec
+Read Frame, time: 0.159807 sec
+Read Frame, time: 0.149381 sec
+Read Frame, time: 0.161641 sec
+Read Frame, time: 0.163347 sec
+Read Frame, time: 0.162316 sec
+Read Frame, time: 0.150358 sec
+Read Frame, time: 0.166617 sec
+Read Frame, time: 0.15377 sec
+Read Frame, time: 0.0512314 sec
+Read Frame, time: 0.0526319 sec
+Read Frame, time: 0.0518168 sec
+Read Frame, time: 0.0502588 sec
+Read Frame, time: 0.0495084 sec
+Read Frame, time: 0.0516297 sec
+Read Frame, time: 0.0642872 sec
+Read Frame, time: 0.0706081 sec
+Read Frame, time: 0.0641479 sec
+Read Frame, time: 0.0591821 sec
+Read Frame, time: 0.0650068 sec
+Read Frame, time: 0.0577812 sec
+Read Frame, time: 0.0668534 sec
+Read Frame, time: 0.0655437 sec
+Read Frame, time: 0.0661271 sec
+Read Frame, time: 0.0652235 sec
+Read Frame, time: 0.0710017 sec
+Read Frame, time: 0.0577639 sec
+Read Frame, time: 0.0723094 sec
+Read Frame, time: 0.0706302 sec
+Read Frame, time: 0.0782581 sec
+Read Frame, time: 0.070905 sec
+Read Frame, time: 0.0749384 sec
+Read Frame, time: 0.0682073 sec
+Read Frame, time: 0.0794956 sec
+Read Frame, time: 0.0826499 sec
+Read Frame, time: 0.0771161 sec
+Read Frame, time: 0.0747686 sec
+Read Frame, time: 0.083317 sec
+Read Frame, time: 0.0827932 sec
+Read Frame, time: 0.084459 sec
+Read Frame, time: 0.0955486 sec
+Read Frame, time: 0.0889238 sec
+Read Frame, time: 0.0879255 sec
+Read Frame, time: 0.0842959 sec
+Read Frame, time: 0.082685 sec
+Read Frame, time: 0.0913183 sec
+Read Frame, time: 0.0988107 sec
+Read Frame, time: 0.0922384 sec
+Read Frame, time: 0.0912993 sec
+Read Frame, time: 0.0902667 sec
+Read Frame, time: 0.0883822 sec
+Read Frame, time: 0.0968883 sec
+Read Frame, time: 0.108501 sec
+Read Frame, time: 0.100754 sec
+Read Frame, time: 0.0959303 sec
+Read Frame, time: 0.0968773 sec
+Read Frame, time: 0.0964056 sec
+Read Frame, time: 0.10513 sec
+Read Frame, time: 0.125306 sec
+Read Frame, time: 0.105651 sec
+Read Frame, time: 0.0980106 sec
+Read Frame, time: 0.103968 sec
+Read Frame, time: 0.108476 sec
+Read Frame, time: 0.115153 sec
+Read Frame, time: 0.119489 sec
+Read Frame, time: 0.115907 sec
+Read Frame, time: 0.111957 sec
+Read Frame, time: 0.117996 sec
+Read Frame, time: 0.108919 sec
+Read Frame, time: 0.123648 sec
+Read Frame, time: 0.119792 sec
+Read Frame, time: 0.123509 sec
+Read Frame, time: 0.118134 sec
+Read Frame, time: 0.114797 sec
+Read Frame, time: 0.126366 sec
+Read Frame, time: 0.133757 sec
+Read Frame, time: 0.136548 sec
+Read Frame, time: 0.131999 sec
+Read Frame, time: 0.123976 sec
+Read Frame, time: 0.124901 sec
+Read Frame, time: 0.125762 sec
+Read Frame, time: 0.130423 sec
+Read Frame, time: 0.140514 sec
+Read Frame, time: 0.13169 sec
+Read Frame, time: 0.128773 sec
+Read Frame, time: 0.140244 sec
+Read Frame, time: 0.131044 sec
+Stitching ave Frame, time: 0.309277 sec
+'
+
+Stitching t1 Frame, time: 1.39482 sec
+'
+
+Stitching ave + t1 Frame, time: 1.70409 sec
+'
+
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 4.34208e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.0456526 sec
+Exposure compensation...
+Exposure compensation, time: 7.30259e-005 sec
+Finding seams...
+Finding seams, time: 0.000852626 sec
+Compositing...
+1 5   1
+2 5   2
+3 5   3
+4 5   4
+5 5   6
+6 5   6
+Compositing, time: 0.350374 sec
+Finished, total time: 374.248 sec
+[1 x 1]  6  [1 x 1]
+Stitching Statistic is : 3
+
+Stitching Statistic Per is : 1
+
+Finding features...
+Features in image #1: 1309
+Features in image #2: 2530
+Features in image #3: 1677
+Features in image #4: 938
+Features in image #5: 1153
+Features in image #6: 1214
+Finding features, time: 4.49927 sec
+Pairwise matching
+1->2 matches: 48
+
+1->2 matches: 66
+
+1->2 matches: 185
+
+1->2 matches: 36
+1->2 & 2->1 matches: 77
+.1->2 & 2->1 matches: 87
+.
+1->2 matches: 10
+
+1->2 matches: 155
+1->2 & 2->1 matches: 338
+.1->2 & 2->1 matches: 28
+
+1->2 matches: 211
+1->2 & 2->1 matches: 52
+.
+1->2 matches: 16
+1->2 & 2->1 matches: 220
+.1->2 & 2->1 matches: 43
+1->2 & 2->1 matches: 291
+.
+1->2 matches: 43
+.
+1->2 matches: 167
+1->2 & 2->1 matches: 58
+.1->2 & 2->1 matches: 207
+.
+1->2 matches: 16
+
+1->2 matches: 14
+
+1->2 matches: 22
+1->2 & 2->1 matches: 32
+1->2 & 2->1 matches: 29
+.1->2 & 2->1 matches: 33
+.
+1->2 matches: 71
+.
+1->2 matches: 26
+.1->2 & 2->1 matches: 81
+1->2 & 2->1 matches: 48
+..Pairwise matching, time: 0.774079 sec
+Estimating rotations...
+Estimating rotations, time: 9.71047e-005 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 7.49995e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.195547 sec
+Exposure compensation...
+Exposure compensation, time: 0.805822 sec
+Finding seams...
+Finding seams, time: 1.98182 sec
+Compositing...
+1 5   1
+2 5   2
+3 5   3
+4 5   4
+5 5   6
+6 5   6
+Compositing, time: 4.54665 sec
+Finished, total time: 12.9268 sec
+[8047 x 1106]  6  [8047 x 1106]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time:  idx 20.0713782 sec
+Read Frame, time:  idx 20.0474435 sec
+Read Frame, time:  idx 20.0382075 sec
+Read Frame, time:  idx 20.0534443 sec
+Read Frame, time:  idx 20.039342 sec
+Read Frame, time:  idx 20.0380038 sec
+Stitching Statistic Per is : 2
+
+Finding features...
+Read Frame, time:  idx 30.117388 sec
+Read Frame, time:  idx 30.0381542 sec
+Read Frame, time:  idx 30.0368848 sec
+Features in image #1: 1254
+Read Frame, time:  idx 30.0371856 sec
+Read Frame, time:  idx 30.130401 sec
+Read Frame, time:  idx 30.0339894 sec
+Features in image #2: 2537
+Features in image #3: 1674
+Read Frame, time:  idx 40.0937376 sec
+Read Frame, time:  idx 40.0498514 sec
+Read Frame, time:  idx 40.0433833 sec
+Read Frame, time:  idx 40.0706657 sec
+Read Frame, time:  idx 40.0428014 sec
+Features in image #4: 926
+Read Frame, time:  idx 40.0473275 sec
+Features in image #5: 1118
+Read Frame, time:  idx 50.0578645 sec
+Features in image #6: 1173
+Finding features, time: 5.75392 sec
+Pairwise matchingRead Frame, time:  idx 50.0493232 sec
+
+1->2 matches: 76
+
+1->2 matches: 41
+
+1->2 matches: 160
+Read Frame, time:  idx 50.0760065 sec
+
+1->2 matches: 29
+1->2 & 2->1 matches: 55
+.1->2 & 2->1 matches: 115
+.
+1->2 matches: 10
+1->2 & 2->1 matches: 38
+1->2 & 2->1 matches: 312
+1->2 & 2->1 matches: 16
+...Read Frame, time:  idx 50.117373 sec
+
+1->2 matches: 163
+
+1->2 matches: 16
+
+1->2 matches: 141
+1->2 & 2->1 matches: 42
+
+1->2 matches: 214
+1->2 & 2->1 matches: 195
+.1->2 & 2->1 matches: 215
+.Read Frame, time:  idx 50.0740897 sec
+
+1->2 matches: 17
+1->2 & 2->1 matches: 297
+.1->2 & 2->1 matches: 31
+.
+1->2 matches: 36
+.
+1->2 matches: 17
+
+1->2 matches: 30
+
+1->2 matches: 13
+1->2 & 2->1 matches: 44
+1->2 & 2->1 matches: 30
+.1->2 & 2->1 matches: 53
+1->2 & 2->1 matches: 28
+...
+1->2 matches: 69
+Read Frame, time:  idx 50.0460043 sec
+1->2 & 2->1 matches: 76
+.Pairwise matching, time: 1.18117 sec
+Estimating rotations...
+Estimating rotations, time: 0.00011092 sec
+Saving 31...
+Saving 32...
+Read Frame, time:  idx 60.047545 sec
+Read Frame, time:  idx 60.0482961 sec
+Read Frame, time:  idx 60.049744 sec
+Read Frame, time:  idx 60.0483072 sec
+Read Frame, time:  idx 60.0448391 sec
+Read Frame, time:  idx 60.0434192 sec
+Read Frame, time:  idx 70.0406738 sec
+Read Frame, time:  idx 70.042938 sec
+Read Frame, time:  idx 70.0425836 sec
+Read Frame, time:  idx 70.045486 sec
+Read Frame, time:  idx 70.0478805 sec
+Read Frame, time:  idx 70.0483798 sec
+Read Frame, time:  idx 80.0498865 sec
+Read Frame, time:  idx 80.0494898 sec
+Read Frame, time:  idx 80.048475 sec
+Read Frame, time:  idx 80.0449551 sec
+Read Frame, time:  idx 80.0483111 sec
+Read Frame, time:  idx 80.0486601 sec
+Read Frame, time:  idx 90.0589449 sec
+Read Frame, time:  idx 90.0569377 sec
+Read Frame, time:  idx 90.0629357 sec
+Read Frame, time:  idx 90.0596862 sec
+Read Frame, time:  idx 90.0577216 sec
+Read Frame, time:  idx 90.0586204 sec
+Read Frame, time:  idx 100.0649129 sec
+Read Frame, time:  idx 100.069973 sec
+Read Frame, time:  idx 100.0656735 sec
+Read Frame, time:  idx 100.063658 sec
+Read Frame, time:  idx 100.0668258 sec
+Read Frame, time:  idx 100.0580686 sec
+Read Frame, time:  idx 110.0662799 sec
+Read Frame, time:  idx 110.0646867 sec
+Read Frame, time:  idx 110.0700531 sec
+Read Frame, time:  idx 110.072714 sec
+Read Frame, time:  idx 110.0730945 sec
+Read Frame, time:  idx 110.0764218 sec
+Read Frame, time:  idx 120.0751468 sec
+Read Frame, time:  idx 120.073897 sec
+Read Frame, time:  idx 120.0839162 sec
+Read Frame, time:  idx 120.0797517 sec
+Read Frame, time:  idx 120.0843453 sec
+Read Frame, time:  idx 120.080724 sec
+Read Frame, time:  idx 130.0861567 sec
+Read Frame, time:  idx 130.0883135 sec
+Read Frame, time:  idx 130.0867018 sec
+Read Frame, time:  idx 130.0854971 sec
+Read Frame, time:  idx 130.0752518 sec
+Read Frame, time:  idx 130.0739724 sec
+Read Frame, time:  idx 140.083287 sec
+Read Frame, time:  idx 140.0806924 sec
+Read Frame, time:  idx 140.0792796 sec
+Read Frame, time:  idx 140.0833316 sec
+Read Frame, time:  idx 140.0814191 sec
+Read Frame, time:  idx 140.0810058 sec
+Read Frame, time:  idx 150.0974236 sec
+Read Frame, time:  idx 150.115255 sec
+Read Frame, time:  idx 150.101901 sec
+Read Frame, time:  idx 150.0980414 sec
+Read Frame, time:  idx 150.096117 sec
+Read Frame, time:  idx 150.102595 sec
+Read Frame, time:  idx 160.116278 sec
+Read Frame, time:  idx 160.110063 sec
+Read Frame, time:  idx 160.10415 sec
+Read Frame, time:  idx 160.108184 sec
+Read Frame, time:  idx 160.108053 sec
+Read Frame, time:  idx 160.104092 sec
+Read Frame, time:  idx 170.115007 sec
+Read Frame, time:  idx 170.113194 sec
+Read Frame, time:  idx 170.109364 sec
+Read Frame, time:  idx 170.117373 sec
+Read Frame, time:  idx 170.108907 sec
+Read Frame, time:  idx 170.0976541 sec
+Read Frame, time:  idx 180.106195 sec
+Read Frame, time:  idx 180.107439 sec
+Read Frame, time:  idx 180.105101 sec
+Read Frame, time:  idx 180.106587 sec
+Read Frame, time:  idx 180.105499 sec
+Read Frame, time:  idx 180.117779 sec
+Read Frame, time:  idx 190.126125 sec
+Read Frame, time:  idx 190.135137 sec
+Read Frame, time:  idx 190.127556 sec
+Read Frame, time:  idx 190.134408 sec
+Read Frame, time:  idx 190.136781 sec
+Read Frame, time:  idx 190.121783 sec
+Read Frame, time:  idx 200.135449 sec
+Read Frame, time:  idx 200.143749 sec
+Read Frame, time:  idx 200.13516 sec
+Read Frame, time:  idx 200.138385 sec
+Read Frame, time:  idx 200.135236 sec
+Read Frame, time:  idx 200.15558 sec
+Read Frame, time:  idx 210.138303 sec
+Read Frame, time:  idx 210.147804 sec
+Read Frame, time:  idx 210.140154 sec
+Read Frame, time:  idx 210.142264 sec
+Read Frame, time:  idx 210.13709 sec
+Read Frame, time:  idx 210.140573 sec
+Read Frame, time:  idx 220.145985 sec
+Read Frame, time:  idx 220.151773 sec
+Read Frame, time:  idx 220.155937 sec
+Read Frame, time:  idx 220.154261 sec
+Read Frame, time:  idx 220.144086 sec
+Read Frame, time:  idx 220.157554 sec
+Read Frame, time:  idx 230.155575 sec
+Read Frame, time:  idx 230.159458 sec
+Read Frame, time:  idx 230.16626 sec
+Read Frame, time:  idx 230.174158 sec
+Read Frame, time:  idx 230.178088 sec
+Read Frame, time:  idx 230.152369 sec
+Read Frame, time:  idx 240.0530566 sec
+Read Frame, time:  idx 240.051514 sec
+Read Frame, time:  idx 240.0577816 sec
+Read Frame, time:  idx 240.0571852 sec
+Read Frame, time:  idx 240.0517564 sec
+Read Frame, time:  idx 240.0532619 sec
+Read Frame, time:  idx 250.0612395 sec
+Read Frame, time:  idx 250.0646488 sec
+Read Frame, time:  idx 250.0611542 sec
+Read Frame, time:  idx 250.0613023 sec
+Read Frame, time:  idx 250.0591604 sec
+Read Frame, time:  idx 250.059899 sec
+Read Frame, time:  idx 260.0686017 sec
+Read Frame, time:  idx 260.0693347 sec
+Read Frame, time:  idx 260.0706409 sec
+Read Frame, time:  idx 260.0660596 sec
+Read Frame, time:  idx 260.0698139 sec
+Read Frame, time:  idx 260.0662376 sec
+Read Frame, time:  idx 270.0751282 sec
+Read Frame, time:  idx 270.0734952 sec
+Read Frame, time:  idx 270.0720753 sec
+Read Frame, time:  idx 270.07101 sec
+Read Frame, time:  idx 270.0718318 sec
+Read Frame, time:  idx 270.0761439 sec
+Read Frame, time:  idx 280.0757006 sec
+Read Frame, time:  idx 280.0808759 sec
+Read Frame, time:  idx 280.0791466 sec
+Read Frame, time:  idx 280.0819125 sec
+Read Frame, time:  idx 280.0773991 sec
+Read Frame, time:  idx 280.0867085 sec
+Read Frame, time:  idx 290.0849291 sec
+Read Frame, time:  idx 290.0850641 sec
+Read Frame, time:  idx 290.0858547 sec
+Read Frame, time:  idx 290.082194 sec
+Read Frame, time:  idx 290.08366 sec
+Read Frame, time:  idx 290.0864484 sec
+Read Frame, time:  idx 300.0963855 sec
+Read Frame, time:  idx 300.0937486 sec
+Read Frame, time:  idx 300.0956595 sec
+Read Frame, time:  idx 300.093288 sec
+Read Frame, time:  idx 300.097651 sec
+Read Frame, time:  idx 300.0965414 sec
+Read Frame, time:  idx 310.0990665 sec
+Read Frame, time:  idx 310.104142 sec
+Read Frame, time:  idx 310.10241 sec
+Read Frame, time:  idx 310.0976522 sec
+Read Frame, time:  idx 310.0978787 sec
+Read Frame, time:  idx 310.102882 sec
+Read Frame, time:  idx 320.115082 sec
+Read Frame, time:  idx 320.105658 sec
+Read Frame, time:  idx 320.107843 sec
+Read Frame, time:  idx 320.103357 sec
+Read Frame, time:  idx 320.107253 sec
+Read Frame, time:  idx 320.109305 sec
+Read Frame, time:  idx 330.111869 sec
+Read Frame, time:  idx 330.123885 sec
+Read Frame, time:  idx 330.11517 sec
+Read Frame, time:  idx 330.108203 sec
+Read Frame, time:  idx 330.11757 sec
+Read Frame, time:  idx 330.116235 sec
+Read Frame, time:  idx 340.120677 sec
+Read Frame, time:  idx 340.121117 sec
+Read Frame, time:  idx 340.12097 sec
+Read Frame, time:  idx 340.124676 sec
+Read Frame, time:  idx 340.12044 sec
+Read Frame, time:  idx 340.119884 sec
+Read Frame, time:  idx 350.135303 sec
+Read Frame, time:  idx 350.14359 sec
+Read Frame, time:  idx 350.141322 sec
+Read Frame, time:  idx 350.128906 sec
+Read Frame, time:  idx 350.148908 sec
+Read Frame, time:  idx 350.150721 sec
+Read Frame, time:  idx 360.138332 sec
+Read Frame, time:  idx 360.136893 sec
+Read Frame, time:  idx 360.144896 sec
+Read Frame, time:  idx 360.129807 sec
+Read Frame, time:  idx 360.144779 sec
+Read Frame, time:  idx 360.142964 sec
+Read Frame, time:  idx 370.142694 sec
+Read Frame, time:  idx 370.141652 sec
+Read Frame, time:  idx 370.143605 sec
+Read Frame, time:  idx 370.143201 sec
+Read Frame, time:  idx 370.141523 sec
+Read Frame, time:  idx 370.141546 sec
+Read Frame, time:  idx 380.145369 sec
+Read Frame, time:  idx 380.157769 sec
+Read Frame, time:  idx 380.159473 sec
+Read Frame, time:  idx 380.15667 sec
+Read Frame, time:  idx 380.178923 sec
+Read Frame, time:  idx 380.179274 sec
+Read Frame, time:  idx 390.156489 sec
+Read Frame, time:  idx 390.159248 sec
+Read Frame, time:  idx 390.162965 sec
+Read Frame, time:  idx 390.153179 sec
+Read Frame, time:  idx 390.153459 sec
+Read Frame, time:  idx 390.1553 sec
+Read Frame, time:  idx 400.0501755 sec
+Read Frame, time:  idx 400.0512602 sec
+Read Frame, time:  idx 400.0502375 sec
+Read Frame, time:  idx 400.0494093 sec
+Read Frame, time:  idx 400.0504857 sec
+Read Frame, time:  idx 400.0501447 sec
+Read Frame, time:  idx 410.0702718 sec
+Read Frame, time:  idx 410.069971 sec
+Read Frame, time:  idx 410.0586398 sec
+Read Frame, time:  idx 410.054797 sec
+Read Frame, time:  idx 410.0601378 sec
+Read Frame, time:  idx 410.0579233 sec
+Read Frame, time:  idx 420.0618434 sec
+Read Frame, time:  idx 420.0652425 sec
+Read Frame, time:  idx 420.0667081 sec
+Read Frame, time:  idx 420.0635783 sec
+Read Frame, time:  idx 420.061965 sec
+Read Frame, time:  idx 420.0611444 sec
+Read Frame, time:  idx 430.0683321 sec
+Read Frame, time:  idx 430.071621 sec
+Read Frame, time:  idx 430.0762453 sec
+Read Frame, time:  idx 430.069371 sec
+Read Frame, time:  idx 430.0725159 sec
+Read Frame, time:  idx 430.0714256 sec
+Read Frame, time:  idx 440.0740115 sec
+Read Frame, time:  idx 440.0796156 sec
+Read Frame, time:  idx 440.0788573 sec
+Read Frame, time:  idx 440.0733089 sec
+Read Frame, time:  idx 440.0791383 sec
+Read Frame, time:  idx 440.0759808 sec
+Read Frame, time:  idx 450.084174 sec
+Read Frame, time:  idx 450.108481 sec
+Read Frame, time:  idx 450.110719 sec
+Read Frame, time:  idx 450.0996077 sec
+Read Frame, time:  idx 450.0990306 sec
+Read Frame, time:  idx 450.108957 sec
+Read Frame, time:  idx 460.0887951 sec
+Read Frame, time:  idx 460.09212 sec
+Read Frame, time:  idx 460.0937542 sec
+Read Frame, time:  idx 460.0871712 sec
+Read Frame, time:  idx 460.0874597 sec
+Read Frame, time:  idx 460.0875095 sec
+Read Frame, time:  idx 470.0969693 sec
+Read Frame, time:  idx 470.0964585 sec
+Read Frame, time:  idx 470.0962228 sec
+Read Frame, time:  idx 470.0928372 sec
+Read Frame, time:  idx 470.0963906 sec
+Read Frame, time:  idx 470.0980039 sec
+Read Frame, time:  idx 480.104588 sec
+Read Frame, time:  idx 480.10215 sec
+Read Frame, time:  idx 480.10307 sec
+Read Frame, time:  idx 480.104171 sec
+Read Frame, time:  idx 480.108023 sec
+Read Frame, time:  idx 480.105465 sec
+Read Frame, time:  idx 490.114701 sec
+Read Frame, time:  idx 490.10831 sec
+Read Frame, time:  idx 490.122898 sec
+Read Frame, time:  idx 490.108923 sec
+Read Frame, time:  idx 490.117085 sec
+Read Frame, time:  idx 490.106802 sec
+Read Frame, time:  idx 500.11982 sec
+Read Frame, time:  idx 500.121741 sec
+Read Frame, time:  idx 500.119171 sec
+Read Frame, time:  idx 500.110442 sec
+Read Frame, time:  idx 500.114824 sec
+Read Frame, time:  idx 500.115186 sec
+Read Frame, time:  idx 510.132384 sec
+Read Frame, time:  idx 510.127005 sec
+Read Frame, time:  idx 510.130697 sec
+Read Frame, time:  idx 510.11961 sec
+Read Frame, time:  idx 510.126386 sec
+Read Frame, time:  idx 510.121838 sec
+Read Frame, time:  idx 520.136661 sec
+Read Frame, time:  idx 520.15846 sec
+Read Frame, time:  idx 520.136815 sec
+Read Frame, time:  idx 520.132892 sec
+Read Frame, time:  idx 520.128213 sec
+Read Frame, time:  idx 520.138202 sec
+Read Frame, time:  idx 530.144485 sec
+Read Frame, time:  idx 530.139432 sec
+Read Frame, time:  idx 530.147166 sec
+Read Frame, time:  idx 530.135073 sec
+Read Frame, time:  idx 530.147525 sec
+Read Frame, time:  idx 530.137973 sec
+Read Frame, time:  idx 540.14363 sec
+Read Frame, time:  idx 540.151769 sec
+Read Frame, time:  idx 540.155713 sec
+Read Frame, time:  idx 540.145014 sec
+Read Frame, time:  idx 540.14445 sec
+Read Frame, time:  idx 540.183736 sec
+Read Frame, time:  idx 550.143083 sec
+Read Frame, time:  idx 550.152093 sec
+Read Frame, time:  idx 550.152604 sec
+Read Frame, time:  idx 550.146276 sec
+Read Frame, time:  idx 550.156 sec
+Read Frame, time:  idx 550.153665 sec
+Read Frame, time:  idx 560.180967 sec
+Read Frame, time:  idx 560.209763 sec
+Read Frame, time:  idx 560.168611 sec
+Read Frame, time:  idx 560.17374 sec
+Read Frame, time:  idx 560.173872 sec
+Read Frame, time:  idx 560.179509 sec
+Read Frame, time:  idx 570.0527385 sec
+Read Frame, time:  idx 570.0638242 sec
+Read Frame, time:  idx 570.0566365 sec
+Read Frame, time:  idx 570.0507242 sec
+Read Frame, time:  idx 570.0617211 sec
+Read Frame, time:  idx 570.0817294 sec
+Read Frame, time:  idx 580.0604575 sec
+Read Frame, time:  idx 580.0630205 sec
+Read Frame, time:  idx 580.0625765 sec
+Read Frame, time:  idx 580.0630521 sec
+Read Frame, time:  idx 580.0648557 sec
+Read Frame, time:  idx 580.0588679 sec
+Read Frame, time:  idx 590.0657225 sec
+Read Frame, time:  idx 590.0679587 sec
+Read Frame, time:  idx 590.0699631 sec
+Read Frame, time:  idx 590.0615276 sec
+Read Frame, time:  idx 590.0622326 sec
+Read Frame, time:  idx 590.0675927 sec
+Read Frame, time:  idx 600.069476 sec
+Read Frame, time:  idx 600.0737569 sec
+Read Frame, time:  idx 600.0756658 sec
+Read Frame, time:  idx 600.0723824 sec
+Read Frame, time:  idx 600.0819279 sec
+Read Frame, time:  idx 600.0715563 sec
+Read Frame, time:  idx 610.0961565 sec
+Read Frame, time:  idx 610.106653 sec
+Read Frame, time:  idx 610.0866529 sec
+Read Frame, time:  idx 610.0829223 sec
+Read Frame, time:  idx 610.0823376 sec
+Read Frame, time:  idx 610.0747434 sec
+Read Frame, time:  idx 620.0855563 sec
+Read Frame, time:  idx 620.0873137 sec
+Read Frame, time:  idx 620.088447 sec
+Read Frame, time:  idx 620.0813824 sec
+Read Frame, time:  idx 620.0871629 sec
+Read Frame, time:  idx 620.0883526 sec
+Read Frame, time:  idx 630.0920982 sec
+Read Frame, time:  idx 630.0960077 sec
+Read Frame, time:  idx 630.100323 sec
+Read Frame, time:  idx 630.0892262 sec
+Read Frame, time:  idx 630.0913269 sec
+Read Frame, time:  idx 630.095502 sec
+Read Frame, time:  idx 640.101264 sec
+Read Frame, time:  idx 640.119552 sec
+Read Frame, time:  idx 640.110656 sec
+Read Frame, time:  idx 640.107259 sec
+Read Frame, time:  idx 640.106455 sec
+Read Frame, time:  idx 640.105516 sec
+Read Frame, time:  idx 650.102877 sec
+Read Frame, time:  idx 650.104198 sec
+Read Frame, time:  idx 650.108768 sec
+Read Frame, time:  idx 650.0981922 sec
+Read Frame, time:  idx 650.103485 sec
+Read Frame, time:  idx 650.107356 sec
+Read Frame, time:  idx 660.110119 sec
+Read Frame, time:  idx 660.119068 sec
+Read Frame, time:  idx 660.119524 sec
+Read Frame, time:  idx 660.10865 sec
+Read Frame, time:  idx 660.110767 sec
+Read Frame, time:  idx 660.116227 sec
+Read Frame, time:  idx 670.118496 sec
+Read Frame, time:  idx 670.123452 sec
+Read Frame, time:  idx 670.119558 sec
+Read Frame, time:  idx 670.113086 sec
+Read Frame, time:  idx 670.114023 sec
+Read Frame, time:  idx 670.133966 sec
+Read Frame, time:  idx 680.126033 sec
+Read Frame, time:  idx 680.131321 sec
+Read Frame, time:  idx 680.129924 sec
+Read Frame, time:  idx 680.124079 sec
+Read Frame, time:  idx 680.125094 sec
+Read Frame, time:  idx 680.122539 sec
+Read Frame, time:  idx 690.131479 sec
+Read Frame, time:  idx 690.144204 sec
+Read Frame, time:  idx 690.138022 sec
+Read Frame, time:  idx 690.130205 sec
+Read Frame, time:  idx 690.139327 sec
+Read Frame, time:  idx 690.13305 sec
+Read Frame, time:  idx 700.147644 sec
+Read Frame, time:  idx 700.153646 sec
+Read Frame, time:  idx 700.147335 sec
+Read Frame, time:  idx 700.139023 sec
+Read Frame, time:  idx 700.156218 sec
+Read Frame, time:  idx 700.171543 sec
+Read Frame, time:  idx 710.147637 sec
+Read Frame, time:  idx 710.149792 sec
+Read Frame, time:  idx 710.146308 sec
+Read Frame, time:  idx 710.147823 sec
+Read Frame, time:  idx 710.14914 sec
+Read Frame, time:  idx 710.148791 sec
+Read Frame, time:  idx 720.156911 sec
+Read Frame, time:  idx 720.168867 sec
+Read Frame, time:  idx 720.160313 sec
+Read Frame, time:  idx 720.154379 sec
+Read Frame, time:  idx 720.153865 sec
+Read Frame, time:  idx 720.157405 sec
+Read Frame, time:  idx 730.1624 sec
+Read Frame, time:  idx 730.168845 sec
+Read Frame, time:  idx 730.186353 sec
+Read Frame, time:  idx 730.189801 sec
+Read Frame, time:  idx 730.172283 sec
+Read Frame, time:  idx 730.167422 sec
+Read Frame, time:  idx 740.0510972 sec
+Read Frame, time:  idx 740.0548491 sec
+Read Frame, time:  idx 740.05604 sec
+Read Frame, time:  idx 740.0545547 sec
+Read Frame, time:  idx 740.052247 sec
+Read Frame, time:  idx 740.0542093 sec
+Read Frame, time:  idx 750.0612367 sec
+Read Frame, time:  idx 750.064481 sec
+Read Frame, time:  idx 750.0611744 sec
+Read Frame, time:  idx 750.0635278 sec
+Read Frame, time:  idx 750.0608779 sec
+Read Frame, time:  idx 750.0642197 sec
+Read Frame, time:  idx 760.0668384 sec
+Read Frame, time:  idx 760.0723824 sec
+Read Frame, time:  idx 760.0693414 sec
+Read Frame, time:  idx 760.069298 sec
+Read Frame, time:  idx 760.072926 sec
+Read Frame, time:  idx 760.0820005 sec
+Read Frame, time:  idx 770.0713664 sec
+Read Frame, time:  idx 770.0748645 sec
+Read Frame, time:  idx 770.0766053 sec
+Read Frame, time:  idx 770.0769578 sec
+Read Frame, time:  idx 770.0744465 sec
+Read Frame, time:  idx 770.075221 sec
+Read Frame, time:  idx 780.0787681 sec
+Read Frame, time:  idx 780.0800573 sec
+Read Frame, time:  idx 780.0832503 sec
+Read Frame, time:  idx 780.0846788 sec
+Read Frame, time:  idx 780.0838088 sec
+Read Frame, time:  idx 780.0753907 sec
+Read Frame, time:  idx 790.0985375 sec
+Read Frame, time:  idx 790.0859779 sec
+Read Frame, time:  idx 790.0893142 sec
+Read Frame, time:  idx 790.0886143 sec
+Read Frame, time:  idx 790.0882373 sec
+Read Frame, time:  idx 790.0930152 sec
+Read Frame, time:  idx 800.0938288 sec
+Read Frame, time:  idx 800.0998098 sec
+Read Frame, time:  idx 800.0961486 sec
+Read Frame, time:  idx 800.092879 sec
+Read Frame, time:  idx 800.0918322 sec
+Read Frame, time:  idx 800.0918377 sec
+Read Frame, time:  idx 810.101767 sec
+Read Frame, time:  idx 810.102868 sec
+Read Frame, time:  idx 810.101665 sec
+Read Frame, time:  idx 810.0958601 sec
+Read Frame, time:  idx 810.0978645 sec
+Read Frame, time:  idx 810.0958226 sec
+Read Frame, time:  idx 820.104555 sec
+Read Frame, time:  idx 820.103837 sec
+Read Frame, time:  idx 820.10975 sec
+Read Frame, time:  idx 820.100719 sec
+Read Frame, time:  idx 820.108018 sec
+Read Frame, time:  idx 820.108329 sec
+Read Frame, time:  idx 830.115902 sec
+Read Frame, time:  idx 830.114615 sec
+Read Frame, time:  idx 830.116385 sec
+Read Frame, time:  idx 830.10901 sec
+Read Frame, time:  idx 830.118454 sec
+Read Frame, time:  idx 830.109912 sec
+Read Frame, time:  idx 840.147851 sec
+Read Frame, time:  idx 840.12213 sec
+Read Frame, time:  idx 840.122082 sec
+Read Frame, time:  idx 840.121967 sec
+Read Frame, time:  idx 840.124608 sec
+Read Frame, time:  idx 840.117361 sec
+Read Frame, time:  idx 850.130335 sec
+Read Frame, time:  idx 850.136282 sec
+Read Frame, time:  idx 850.138832 sec
+Read Frame, time:  idx 850.125856 sec
+Read Frame, time:  idx 850.13576 sec
+Read Frame, time:  idx 850.141292 sec
+Read Frame, time:  idx 860.138341 sec
+Read Frame, time:  idx 860.143399 sec
+Read Frame, time:  idx 860.142638 sec
+Read Frame, time:  idx 860.137073 sec
+Read Frame, time:  idx 860.14211 sec
+Read Frame, time:  idx 860.135348 sec
+Read Frame, time:  idx 870.140351 sec
+Read Frame, time:  idx 870.13883 sec
+Read Frame, time:  idx 870.141586 sec
+Read Frame, time:  idx 870.13747 sec
+Read Frame, time:  idx 870.149121 sec
+Read Frame, time:  idx 870.140579 sec
+Read Frame, time:  idx 880.154072 sec
+Read Frame, time:  idx 880.153682 sec
+Read Frame, time:  idx 880.157331 sec
+Read Frame, time:  idx 880.163007 sec
+Read Frame, time:  idx 880.170468 sec
+Read Frame, time:  idx 880.163859 sec
+Read Frame, time:  idx 890.156503 sec
+Read Frame, time:  idx 890.156613 sec
+Read Frame, time:  idx 890.161099 sec
+Read Frame, time:  idx 890.152042 sec
+Read Frame, time:  idx 890.158613 sec
+Read Frame, time:  idx 890.164147 sec
+Read Frame, time:  idx 900.0507818 sec
+Read Frame, time:  idx 900.0503717 sec
+Read Frame, time:  idx 900.0505513 sec
+Read Frame, time:  idx 900.0479729 sec
+Read Frame, time:  idx 900.0507617 sec
+Read Frame, time:  idx 900.050903 sec
+Read Frame, time:  idx 910.057302 sec
+Read Frame, time:  idx 910.0639829 sec
+Read Frame, time:  idx 910.0553011 sec
+Read Frame, time:  idx 910.0565169 sec
+Read Frame, time:  idx 910.0580129 sec
+Read Frame, time:  idx 910.0571864 sec
+Read Frame, time:  idx 920.063349 sec
+Read Frame, time:  idx 920.0698226 sec
+Read Frame, time:  idx 920.0642774 sec
+Read Frame, time:  idx 920.0601299 sec
+Read Frame, time:  idx 920.0638057 sec
+Read Frame, time:  idx 920.061123 sec
+Read Frame, time:  idx 930.0670093 sec
+Read Frame, time:  idx 930.0699746 sec
+Read Frame, time:  idx 930.0746956 sec
+Read Frame, time:  idx 930.0657789 sec
+Read Frame, time:  idx 930.0697914 sec
+Read Frame, time:  idx 930.0678659 sec
+Read Frame, time:  idx 940.0800431 sec
+Read Frame, time:  idx 940.0845115 sec
+Read Frame, time:  idx 940.0818715 sec
+Read Frame, time:  idx 940.0743865 sec
+Read Frame, time:  idx 940.0778756 sec
+Read Frame, time:  idx 940.077049 sec
+Read Frame, time:  idx 950.108651 sec
+Read Frame, time:  idx 950.0870097 sec
+Read Frame, time:  idx 950.0835653 sec
+Read Frame, time:  idx 950.0838605 sec
+Read Frame, time:  idx 950.0847108 sec
+Read Frame, time:  idx 950.0808673 sec
+Read Frame, time:  idx 960.0851237 sec
+Read Frame, time:  idx 960.0923276 sec
+Read Frame, time:  idx 960.0928565 sec
+Read Frame, time:  idx 960.0865372 sec
+Read Frame, time:  idx 960.0939922 sec
+Read Frame, time:  idx 960.0885823 sec
+Read Frame, time:  idx 970.0968931 sec
+Read Frame, time:  idx 970.0971828 sec
+Read Frame, time:  idx 970.097636 sec
+Read Frame, time:  idx 970.0924634 sec
+Read Frame, time:  idx 970.0976147 sec
+Read Frame, time:  idx 970.0958214 sec
+Read Frame, time:  idx 980.101616 sec
+Read Frame, time:  idx 980.103095 sec
+Read Frame, time:  idx 980.106598 sec
+Read Frame, time:  idx 980.103369 sec
+Read Frame, time:  idx 980.109901 sec
+Read Frame, time:  idx 980.106039 sec
+Read Frame, time:  idx 990.111769 sec
+Read Frame, time:  idx 990.112152 sec
+Read Frame, time:  idx 990.114585 sec
+Read Frame, time:  idx 990.105943 sec
+Read Frame, time:  idx 990.109678 sec
+Read Frame, time:  idx 990.112452 sec
+Read Frame, time:  idx 1000.112244 sec
+Read Frame, time:  idx 1000.122463 sec
+Read Frame, time:  idx 1000.121563 sec
+Read Frame, time:  idx 1000.119092 sec
+Read Frame, time:  idx 1000.118437 sec
+Read Frame, time:  idx 1000.120696 sec
+Read Frame, time:  idx 1010.121107 sec
+Read Frame, time:  idx 1010.128711 sec
+Read Frame, time:  idx 1010.131451 sec
+Read Frame, time:  idx 1010.114256 sec
+Read Frame, time:  idx 1010.146552 sec
+Read Frame, time:  idx 1010.117828 sec
+Read Frame, time:  idx 1020.139323 sec
+Read Frame, time:  idx 1020.135934 sec
+Read Frame, time:  idx 1020.142961 sec
+Read Frame, time:  idx 1020.141608 sec
+Read Frame, time:  idx 1020.142768 sec
+Read Frame, time:  idx 1020.127204 sec
+Read Frame, time:  idx 1030.134496 sec
+Read Frame, time:  idx 1030.143575 sec
+Read Frame, time:  idx 1030.143907 sec
+Read Frame, time:  idx 1030.13156 sec
+Read Frame, time:  idx 1030.1572 sec
+Read Frame, time:  idx 1030.157719 sec
+Read Frame, time:  idx 1040.140935 sec
+Read Frame, time:  idx 1040.14856 sec
+Read Frame, time:  idx 1040.162142 sec
+Read Frame, time:  idx 1040.141068 sec
+Read Frame, time:  idx 1040.152953 sec
+Read Frame, time:  idx 1040.145126 sec
+Read Frame, time:  idx 1050.151346 sec
+Read Frame, time:  idx 1050.158091 sec
+Read Frame, time:  idx 1050.150138 sec
+Read Frame, time:  idx 1050.155178 sec
+Read Frame, time:  idx 1050.159788 sec
+Read Frame, time:  idx 1050.15409 sec
+Read Frame, time:  idx 1060.172138 sec
+Read Frame, time:  idx 1060.189928 sec
+Read Frame, time:  idx 1060.161288 sec
+Read Frame, time:  idx 1060.153186 sec
+Read Frame, time:  idx 1060.158392 sec
+Read Frame, time:  idx 1060.159479 sec
+Read Frame, time:  idx 1070.0566278 sec
+Read Frame, time:  idx 1070.0518061 sec
+Read Frame, time:  idx 1070.0540841 sec
+Read Frame, time:  idx 1070.0500298 sec
+Read Frame, time:  idx 1070.0562852 sec
+Read Frame, time:  idx 1070.0532161 sec
+Read Frame, time:  idx 1080.0595457 sec
+Read Frame, time:  idx 1080.060827 sec
+Read Frame, time:  idx 1080.0638838 sec
+Read Frame, time:  idx 1080.0596049 sec
+Read Frame, time:  idx 1080.0625666 sec
+Read Frame, time:  idx 1080.0588766 sec
+Read Frame, time:  idx 1090.0619686 sec
+Read Frame, time:  idx 1090.0677179 sec
+Read Frame, time:  idx 1090.0689419 sec
+Read Frame, time:  idx 1090.0642545 sec
+Read Frame, time:  idx 1090.0660758 sec
+Read Frame, time:  idx 1090.0612221 sec
+Read Frame, time:  idx 1100.0728131 sec
+Read Frame, time:  idx 1100.075131 sec
+Read Frame, time:  idx 1100.0699619 sec
+Read Frame, time:  idx 1100.070155 sec
+Read Frame, time:  idx 1100.0702532 sec
+Read Frame, time:  idx 1100.0673673 sec
+Read Frame, time:  idx 1110.0767679 sec
+Read Frame, time:  idx 1110.0768761 sec
+Read Frame, time:  idx 1110.0832562 sec
+Read Frame, time:  idx 1110.0728399 sec
+Read Frame, time:  idx 1110.0779368 sec
+Read Frame, time:  idx 1110.0745393 sec
+Read Frame, time:  idx 1120.0976403 sec
+Read Frame, time:  idx 1120.0978945 sec
+Read Frame, time:  idx 1120.0993325 sec
+Read Frame, time:  idx 1120.0865854 sec
+Read Frame, time:  idx 1120.0837216 sec
+Read Frame, time:  idx 1120.083004 sec
+Read Frame, time:  idx 1130.0937174 sec
+Read Frame, time:  idx 1130.0978582 sec
+Read Frame, time:  idx 1130.101043 sec
+Read Frame, time:  idx 1130.0919001 sec
+Read Frame, time:  idx 1130.0915934 sec
+Read Frame, time:  idx 1130.0912906 sec
+Read Frame, time:  idx 1140.103167 sec
+Read Frame, time:  idx 1140.109992 sec
+Read Frame, time:  idx 1140.098999 sec
+Read Frame, time:  idx 1140.0998544 sec
+Read Frame, time:  idx 1140.0984345 sec
+Read Frame, time:  idx 1140.0982841 sec
+Read Frame, time:  idx 1150.116037 sec
+Read Frame, time:  idx 1150.127699 sec
+Read Frame, time:  idx 1150.113536 sec
+Read Frame, time:  idx 1150.111349 sec
+Read Frame, time:  idx 1150.110114 sec
+Read Frame, time:  idx 1150.10081 sec
+Read Frame, time:  idx 1160.113811 sec
+Read Frame, time:  idx 1160.113812 sec
+Read Frame, time:  idx 1160.117412 sec
+Read Frame, time:  idx 1160.107227 sec
+Read Frame, time:  idx 1160.112055 sec
+Read Frame, time:  idx 1160.117332 sec
+Read Frame, time:  idx 1170.117768 sec
+Read Frame, time:  idx 1170.11866 sec
+Read Frame, time:  idx 1170.118844 sec
+Read Frame, time:  idx 1170.115705 sec
+Read Frame, time:  idx 1170.111864 sec
+Read Frame, time:  idx 1170.114647 sec
+Read Frame, time:  idx 1180.159545 sec
+Read Frame, time:  idx 1180.132062 sec
+Read Frame, time:  idx 1180.131919 sec
+Read Frame, time:  idx 1180.127786 sec
+Read Frame, time:  idx 1180.127793 sec
+Read Frame, time:  idx 1180.124685 sec
+Read Frame, time:  idx 1190.128637 sec
+Read Frame, time:  idx 1190.130497 sec
+Read Frame, time:  idx 1190.135343 sec
+Read Frame, time:  idx 1190.12767 sec
+Read Frame, time:  idx 1190.139045 sec
+Read Frame, time:  idx 1190.135489 sec
+Stitching ave Frame, time: 0.307191 sec
+'
+
+Stitching t1 Frame, time: 1.38271 sec
+'
+
+Stitching ave + t1 Frame, time: 1.6899 sec
+'
+
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 4.22366e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.0452334 sec
+Exposure compensation...
+Exposure compensation, time: 6.55259e-005 sec
+Finding seams...
+Finding seams, time: 0.000963941 sec
+Compositing...
+1 5   1
+2 5   2
+3 5   3
+4 5   4
+5 5   6
+6 5   6
+Compositing, time: 0.343488 sec
+Finished, total time: 427.325 sec
+[1 x 1]  6  [1 x 1]
+Stitching Statistic is : 2
+
+Stitching Statistic Per is : 1
+
+Finding features...
+Features in image #1: 1309
+Features in image #2: 2530
+Features in image #3: 1677
+Features in image #4: 938
+Features in image #5: 1153
+Features in image #6: 1214
+Finding features, time: 4.48351 sec
+Pairwise matching
+1->2 matches: 48
+
+1->2 matches: 66
+
+1->2 matches: 185
+
+1->2 matches: 36
+1->2 & 2->1 matches: 77
+.1->2 & 2->1 matches: 87
+.
+1->2 matches: 10
+1->2 & 2->1 matches: 28
+
+1->2 matches: 155
+
+1->2 matches: 211
+1->2 & 2->1 matches: 52
+1->2 & 2->1 matches: 338
+..1->2 & 2->1 matches: 220
+.1->2 & 2->1 matches: 291
+
+1->2 matches: 16
+.1->2 & 2->1 matches: 43
+.
+1->2 matches: 43
+
+1->2 matches: 167
+1->2 & 2->1 matches: 58
+1->2 & 2->1 matches: 207
+..
+1->2 matches: 22
+
+1->2 matches: 16
+
+1->2 matches: 14
+1->2 & 2->1 matches: 33
+1->2 & 2->1 matches: 32
+1->2 & 2->1 matches: 29
+..
+1->2 matches: 26
+
+1->2 matches: 71
+.1->2 & 2->1 matches: 48
+.1->2 & 2->1 matches: 81
+..Pairwise matching, time: 0.830016 sec
+Estimating rotations...
+Estimating rotations, time: 0.000122762 sec
+Saving 31...
+Saving 32...
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 5.40786e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.259383 sec
+Exposure compensation...
+Exposure compensation, time: 1.02611 sec
+Finding seams...
+Finding seams, time: 2.40873 sec
+Compositing...
+1 5   1
+2 5   2
+3 5   3
+4 5   4
+5 5   6
+6 5   6
+Compositing, time: 4.8174 sec
+Finished, total time: 13.9724 sec
+[8047 x 1106]  6  [8047 x 1106]
+Stitching PreStich is finished: 0
+
+Stitching1 
+
+Stitching2 
+
+6 7   6
+6 7   6
+6 7   6
+Read Frame, time:  idx 20.0443899 sec
+Read Frame, time:  idx 20.0448 sec
+Read Frame, time:  idx 20.0463485 sec
+Read Frame, time:  idx 20.0474435 sec
+Read Frame, time:  idx 20.0639861 sec
+Read Frame, time:  idx 20.0512014 sec
+Read Frame, time:  idx 30.0543687 sec
+Read Frame, time:  idx 30.0607575 sec
+Read Frame, time:  idx 30.0760618 sec
+Stitching Statistic Per is : 2
+
+Finding features...
+Read Frame, time:  idx 30.0559473 sec
+Read Frame, time:  idx 30.103817 sec
+Read Frame, time:  idx 30.0643212 sec
+Features in image #1: 1263
+Read Frame, time:  idx 40.0751144 sec
+Features in image #2: 2537
+Read Frame, time:  idx 40.0423092 sec
+Read Frame, time:  idx 40.149479 sec
+Read Frame, time:  idx 40.0707917 sec
+Read Frame, time:  idx 40.0597004 sec
+Read Frame, time:  idx 40.116171 sec
+Features in image #3: 1674
+Features in image #4: 930
+Read Frame, time:  idx 50.0506977 sec
+Read Frame, time:  idx 50.0738193 sec
+Read Frame, time:  idx 50.0380706 sec
+Read Frame, time:  idx 50.0456392 sec
+Read Frame, time:  idx 50.0426684 sec
+Read Frame, time:  idx 50.105985 sec
+Features in image #5: 1118
+Features in image #6: 1173
+Finding features, time: 6.78823 sec
+Pairwise matching
+1->2 matches: 63
+
+1->2 matches: 42
+
+1->2 matches: 186
+1->2 & 2->1 matches: 95
+.1->2 & 2->1 matches: 58
+1->2 & 2->1 matches: 308
+..
+1->2 matches: 208
+
+1->2 matches: 25
+
+1->2 matches: 19
+
+1->2 matches: 10
+
+1->2 matches: 14
+1->2 & 2->1 matches: 295
+1->2 & 2->1 matches: 48
+.1->2 & 2->1 matches: 40
+1->2 & 2->1 matches: 25
+1->2 & 2->1 matches: 23
+
+1->2 matches: 35
+.1->2 & 2->1 matches: 54
+.
+1->2 matches: 12
+1->2 & 2->1 matches: 24
+Read Frame, time:  idx 60.079432 sec
+...Read Frame, time:  idx 60.0625307 sec
+
+1->2 matches: 141
+.
+1->2 matches: 160
+1->2 & 2->1 matches: 183
+.1->2 & 2->1 matches: 203
+.
+1->2 matches: 68
+
+1->2 matches: 15
+Read Frame, time:  idx 60.0780433 sec
+1->2 & 2->1 matches: 24
+Read Frame, time:  idx 60.0554156 sec
+.1->2 & 2->1 matches: 73
+.Read Frame, time:  idx 60.0519439 sec
+
+1->2 matches: 26
+1->2 & 2->1 matches: 45
+.Pairwise matching, time: 1.2143 sec
+Estimating rotations...
+Estimating rotations, time: 0.00011921 sec
+Saving 31...
+Saving 32...
+Read Frame, time:  idx 60.0466517 sec
+Read Frame, time:  idx 70.0446863 sec
+Read Frame, time:  idx 70.04936 sec
+Read Frame, time:  idx 70.0489925 sec
+Read Frame, time:  idx 70.0470484 sec
+Read Frame, time:  idx 70.0483108 sec
+Read Frame, time:  idx 70.0506634 sec
+Read Frame, time:  idx 80.0523619 sec
+Read Frame, time:  idx 80.0576837 sec
+Read Frame, time:  idx 80.06132 sec
+Read Frame, time:  idx 80.052607 sec
+Read Frame, time:  idx 80.053944 sec
+Read Frame, time:  idx 80.0675904 sec
+Read Frame, time:  idx 90.0632511 sec
+Read Frame, time:  idx 90.0684485 sec
+Read Frame, time:  idx 90.0632593 sec
+Read Frame, time:  idx 90.0645557 sec
+Read Frame, time:  idx 90.0579095 sec
+Read Frame, time:  idx 90.0587767 sec
+Read Frame, time:  idx 100.0689727 sec
+Read Frame, time:  idx 100.0658899 sec
+Read Frame, time:  idx 100.065685 sec
+Read Frame, time:  idx 100.06567 sec
+Read Frame, time:  idx 100.0674664 sec
+Read Frame, time:  idx 100.0669091 sec
+Read Frame, time:  idx 110.0700215 sec
+Read Frame, time:  idx 110.0728999 sec
+Read Frame, time:  idx 110.076837 sec
+Read Frame, time:  idx 110.0752344 sec
+Read Frame, time:  idx 110.0725786 sec
+Read Frame, time:  idx 110.0736819 sec
+Read Frame, time:  idx 120.0882129 sec
+Read Frame, time:  idx 120.0832432 sec
+Read Frame, time:  idx 120.0903318 sec
+Read Frame, time:  idx 120.0795654 sec
+Read Frame, time:  idx 120.0785971 sec
+Read Frame, time:  idx 120.080885 sec
+Read Frame, time:  idx 130.0856822 sec
+Read Frame, time:  idx 130.0928155 sec
+Read Frame, time:  idx 130.0843903 sec
+Read Frame, time:  idx 130.0817155 sec
+Read Frame, time:  idx 130.0868791 sec
+Read Frame, time:  idx 130.0831113 sec
+Read Frame, time:  idx 140.0913206 sec
+Read Frame, time:  idx 140.0952285 sec
+Read Frame, time:  idx 140.0996432 sec
+Read Frame, time:  idx 140.0940672 sec
+Read Frame, time:  idx 140.0895333 sec
+Read Frame, time:  idx 140.0957069 sec
+Read Frame, time:  idx 150.108066 sec
+Read Frame, time:  idx 150.12087 sec
+Read Frame, time:  idx 150.108358 sec
+Read Frame, time:  idx 150.113522 sec
+Read Frame, time:  idx 150.102853 sec
+Read Frame, time:  idx 150.0983907 sec
+Read Frame, time:  idx 160.102948 sec
+Read Frame, time:  idx 160.106796 sec
+Read Frame, time:  idx 160.109834 sec
+Read Frame, time:  idx 160.10901 sec
+Read Frame, time:  idx 160.104611 sec
+Read Frame, time:  idx 160.106722 sec
+Read Frame, time:  idx 170.119478 sec
+Read Frame, time:  idx 170.114582 sec
+Read Frame, time:  idx 170.113717 sec
+Read Frame, time:  idx 170.108436 sec
+Read Frame, time:  idx 170.109838 sec
+Read Frame, time:  idx 170.112547 sec
+Read Frame, time:  idx 180.136821 sec
+Read Frame, time:  idx 180.13798 sec
+Read Frame, time:  idx 180.121122 sec
+Read Frame, time:  idx 180.121765 sec
+Read Frame, time:  idx 180.120099 sec
+Read Frame, time:  idx 180.125346 sec
+Read Frame, time:  idx 190.1249 sec
+Read Frame, time:  idx 190.125741 sec
+Read Frame, time:  idx 190.130674 sec
+Read Frame, time:  idx 190.130832 sec
+Read Frame, time:  idx 190.128448 sec
+Read Frame, time:  idx 190.130183 sec
+Read Frame, time:  idx 200.143056 sec
+Read Frame, time:  idx 200.139887 sec
+Read Frame, time:  idx 200.138833 sec
+Read Frame, time:  idx 200.139758 sec
+Read Frame, time:  idx 200.136499 sec
+Read Frame, time:  idx 200.138538 sec
+Read Frame, time:  idx 210.150736 sec
+Read Frame, time:  idx 210.149058 sec
+Read Frame, time:  idx 210.142192 sec
+Read Frame, time:  idx 210.14905 sec
+Read Frame, time:  idx 210.140026 sec
+Read Frame, time:  idx 210.138178 sec
+Read Frame, time:  idx 220.155537 sec
+Read Frame, time:  idx 220.146383 sec
+Read Frame, time:  idx 220.149471 sec
+Read Frame, time:  idx 220.151356 sec
+Read Frame, time:  idx 220.143833 sec
+Read Frame, time:  idx 220.159498 sec
+Read Frame, time:  idx 230.159038 sec
+Read Frame, time:  idx 230.155542 sec
+Read Frame, time:  idx 230.164851 sec
+Read Frame, time:  idx 230.161752 sec
+Read Frame, time:  idx 230.177053 sec
+Read Frame, time:  idx 230.157438 sec
+Read Frame, time:  idx 240.0536697 sec
+Read Frame, time:  idx 240.0560302 sec
+Read Frame, time:  idx 240.0528103 sec
+Read Frame, time:  idx 240.0521543 sec
+Read Frame, time:  idx 240.0519652 sec
+Read Frame, time:  idx 240.058609 sec
+Read Frame, time:  idx 250.0654971 sec
+Read Frame, time:  idx 250.0571007 sec
+Read Frame, time:  idx 250.0593613 sec
+Read Frame, time:  idx 250.0581965 sec
+Read Frame, time:  idx 250.0605353 sec
+Read Frame, time:  idx 250.062368 sec
+Read Frame, time:  idx 260.0684252 sec
+Read Frame, time:  idx 260.0710984 sec
+Read Frame, time:  idx 260.0673393 sec
+Read Frame, time:  idx 260.0704265 sec
+Read Frame, time:  idx 260.0721582 sec
+Read Frame, time:  idx 260.0736602 sec
+Read Frame, time:  idx 270.0780646 sec
+Read Frame, time:  idx 270.0895041 sec
+Read Frame, time:  idx 270.0811878 sec
+Read Frame, time:  idx 270.072759 sec
+Read Frame, time:  idx 270.0744856 sec
+Read Frame, time:  idx 270.0744209 sec
+Read Frame, time:  idx 280.0782521 sec
+Read Frame, time:  idx 280.0817862 sec
+Read Frame, time:  idx 280.0826546 sec
+Read Frame, time:  idx 280.0811704 sec
+Read Frame, time:  idx 280.078967 sec
+Read Frame, time:  idx 280.0851643 sec
+Read Frame, time:  idx 290.0879942 sec
+Read Frame, time:  idx 290.0870555 sec
+Read Frame, time:  idx 290.0916293 sec
+Read Frame, time:  idx 290.0862068 sec
+Read Frame, time:  idx 290.0859566 sec
+Read Frame, time:  idx 290.0871333 sec
+Read Frame, time:  idx 300.0974469 sec
+Read Frame, time:  idx 300.0909586 sec
+Read Frame, time:  idx 300.0934155 sec
+Read Frame, time:  idx 300.0903097 sec
+Read Frame, time:  idx 300.0916029 sec
+Read Frame, time:  idx 300.103605 sec
+Read Frame, time:  idx 310.106275 sec
+Read Frame, time:  idx 310.104153 sec
+Read Frame, time:  idx 310.101751 sec
+Read Frame, time:  idx 310.0958711 sec
+Read Frame, time:  idx 310.0978531 sec
+Read Frame, time:  idx 310.104896 sec
+Read Frame, time:  idx 320.109256 sec
+Read Frame, time:  idx 320.111701 sec
+Read Frame, time:  idx 320.109017 sec
+Read Frame, time:  idx 320.10744 sec
+Read Frame, time:  idx 320.110648 sec
+Read Frame, time:  idx 320.118611 sec
+Read Frame, time:  idx 330.110753 sec
+Read Frame, time:  idx 330.11443 sec
+Read Frame, time:  idx 330.114391 sec
+Read Frame, time:  idx 330.117432 sec
+Read Frame, time:  idx 330.113408 sec
+Read Frame, time:  idx 330.114886 sec
+Read Frame, time:  idx 340.120992 sec
+Read Frame, time:  idx 340.121566 sec
+Read Frame, time:  idx 340.126262 sec
+Read Frame, time:  idx 340.119569 sec
+Read Frame, time:  idx 340.118808 sec
+Read Frame, time:  idx 340.124976 sec
+Read Frame, time:  idx 350.131554 sec
+Read Frame, time:  idx 350.137473 sec
+Read Frame, time:  idx 350.129416 sec
+Read Frame, time:  idx 350.157495 sec
+Read Frame, time:  idx 350.127544 sec
+Read Frame, time:  idx 350.142096 sec
+Read Frame, time:  idx 360.138866 sec
+Read Frame, time:  idx 360.14178 sec
+Read Frame, time:  idx 360.150436 sec
+Read Frame, time:  idx 360.13568 sec
+Read Frame, time:  idx 360.137516 sec
+Read Frame, time:  idx 360.134525 sec
+Read Frame, time:  idx 370.138225 sec
+Read Frame, time:  idx 370.149583 sec
+Read Frame, time:  idx 370.145653 sec
+Read Frame, time:  idx 370.140949 sec
+Read Frame, time:  idx 370.139389 sec
+Read Frame, time:  idx 370.1484 sec
+Read Frame, time:  idx 380.147243 sec
+Read Frame, time:  idx 380.158178 sec
+Read Frame, time:  idx 380.169239 sec
+Read Frame, time:  idx 380.159699 sec
+Read Frame, time:  idx 380.165239 sec
+Read Frame, time:  idx 380.148468 sec
+Read Frame, time:  idx 390.162306 sec
+Read Frame, time:  idx 390.15696 sec
+Read Frame, time:  idx 390.165707 sec
+Read Frame, time:  idx 390.15631 sec
+Read Frame, time:  idx 390.155334 sec
+Read Frame, time:  idx 390.16192 sec
+Read Frame, time:  idx 400.048488 sec
+Read Frame, time:  idx 400.0509101 sec
+Read Frame, time:  idx 400.0560152 sec
+Read Frame, time:  idx 400.0484533 sec
+Read Frame, time:  idx 400.0527405 sec
+Read Frame, time:  idx 400.0511418 sec
+Read Frame, time:  idx 410.0768654 sec
+Read Frame, time:  idx 410.0612691 sec
+Read Frame, time:  idx 410.067348 sec
+Read Frame, time:  idx 410.0626436 sec
+Read Frame, time:  idx 410.0635917 sec
+Read Frame, time:  idx 410.0588281 sec
+Read Frame, time:  idx 420.0637389 sec
+Read Frame, time:  idx 420.0640224 sec
+Read Frame, time:  idx 420.0640796 sec
+Read Frame, time:  idx 420.0603004 sec
+Read Frame, time:  idx 420.0659187 sec
+Read Frame, time:  idx 420.0634488 sec
+Read Frame, time:  idx 430.0734774 sec
+Read Frame, time:  idx 430.0694614 sec
+Read Frame, time:  idx 430.0762248 sec
+Read Frame, time:  idx 430.0678402 sec
+Read Frame, time:  idx 430.0688831 sec
+Read Frame, time:  idx 430.0715689 sec
+Read Frame, time:  idx 440.0749052 sec
+Read Frame, time:  idx 440.0783031 sec
+Read Frame, time:  idx 440.0781618 sec
+Read Frame, time:  idx 440.077317 sec
+Read Frame, time:  idx 440.0785983 sec
+Read Frame, time:  idx 440.076631 sec
+Read Frame, time:  idx 450.0845478 sec
+Read Frame, time:  idx 450.0860103 sec
+Read Frame, time:  idx 450.0874412 sec
+Read Frame, time:  idx 450.0846386 sec
+Read Frame, time:  idx 450.0798196 sec
+Read Frame, time:  idx 450.0870156 sec
+Read Frame, time:  idx 460.090391 sec
+Read Frame, time:  idx 460.0890706 sec
+Read Frame, time:  idx 460.0943944 sec
+Read Frame, time:  idx 460.0820148 sec
+Read Frame, time:  idx 460.0932864 sec
+Read Frame, time:  idx 460.0847467 sec
+Read Frame, time:  idx 470.0991762 sec
+Read Frame, time:  idx 470.129999 sec
+Read Frame, time:  idx 470.0985281 sec
+Read Frame, time:  idx 470.0962185 sec
+Read Frame, time:  idx 470.0959169 sec
+Read Frame, time:  idx 470.095536 sec
+Read Frame, time:  idx 480.106396 sec
+Read Frame, time:  idx 480.103256 sec
+Read Frame, time:  idx 480.109618 sec
+Read Frame, time:  idx 480.0978152 sec
+Read Frame, time:  idx 480.0997553 sec
+Read Frame, time:  idx 480.103019 sec
+Read Frame, time:  idx 490.11648 sec
+Read Frame, time:  idx 490.108587 sec
+Read Frame, time:  idx 490.111458 sec
+Read Frame, time:  idx 490.101854 sec
+Read Frame, time:  idx 490.110179 sec
+Read Frame, time:  idx 490.115987 sec
+Read Frame, time:  idx 500.112549 sec
+Read Frame, time:  idx 500.119987 sec
+Read Frame, time:  idx 500.115427 sec
+Read Frame, time:  idx 500.110551 sec
+Read Frame, time:  idx 500.118074 sec
+Read Frame, time:  idx 500.131977 sec
+Read Frame, time:  idx 510.130431 sec
+Read Frame, time:  idx 510.125121 sec
+Read Frame, time:  idx 510.13038 sec
+Read Frame, time:  idx 510.11915 sec
+Read Frame, time:  idx 510.121883 sec
+Read Frame, time:  idx 510.122871 sec
+Read Frame, time:  idx 520.142886 sec
+Read Frame, time:  idx 520.137038 sec
+Read Frame, time:  idx 520.133192 sec
+Read Frame, time:  idx 520.123109 sec
+Read Frame, time:  idx 520.129429 sec
+Read Frame, time:  idx 520.150274 sec
+Read Frame, time:  idx 530.137051 sec
+Read Frame, time:  idx 530.14603 sec
+Read Frame, time:  idx 530.140243 sec
+Read Frame, time:  idx 530.139693 sec
+Read Frame, time:  idx 530.149739 sec
+Read Frame, time:  idx 530.157768 sec
+Read Frame, time:  idx 540.159423 sec
+Read Frame, time:  idx 540.158665 sec
+Read Frame, time:  idx 540.152422 sec
+Read Frame, time:  idx 540.143761 sec
+Read Frame, time:  idx 540.15262 sec
+Read Frame, time:  idx 540.153872 sec
+Read Frame, time:  idx 550.148588 sec
+Read Frame, time:  idx 550.150336 sec
+Read Frame, time:  idx 550.152298 sec
+Read Frame, time:  idx 550.151775 sec
+Read Frame, time:  idx 550.150131 sec
+Read Frame, time:  idx 550.150802 sec
+Read Frame, time:  idx 560.183373 sec
+Read Frame, time:  idx 560.161176 sec
+Read Frame, time:  idx 560.161703 sec
+Read Frame, time:  idx 560.160317 sec
+Read Frame, time:  idx 560.152129 sec
+Read Frame, time:  idx 560.172308 sec
+Read Frame, time:  idx 570.0501996 sec
+Read Frame, time:  idx 570.058382 sec
+Read Frame, time:  idx 570.0559019 sec
+Read Frame, time:  idx 570.0527006 sec
+Read Frame, time:  idx 570.0577824 sec
+Read Frame, time:  idx 570.052877 sec
+Read Frame, time:  idx 580.058594 sec
+Read Frame, time:  idx 580.0596175 sec
+Read Frame, time:  idx 580.0619622 sec
+Read Frame, time:  idx 580.0607086 sec
+Read Frame, time:  idx 580.059462 sec
+Read Frame, time:  idx 580.0605459 sec
+Read Frame, time:  idx 590.071923 sec
+Read Frame, time:  idx 590.0712496 sec
+Read Frame, time:  idx 590.0661776 sec
+Read Frame, time:  idx 590.0655685 sec
+Read Frame, time:  idx 590.0676701 sec
+Read Frame, time:  idx 590.0644384 sec
+Read Frame, time:  idx 600.0715511 sec
+Read Frame, time:  idx 600.0724819 sec
+Read Frame, time:  idx 600.0775006 sec
+Read Frame, time:  idx 600.0664883 sec
+Read Frame, time:  idx 600.0717351 sec
+Read Frame, time:  idx 600.0705426 sec
+Read Frame, time:  idx 610.0803387 sec
+Read Frame, time:  idx 610.0829779 sec
+Read Frame, time:  idx 610.0794154 sec
+Read Frame, time:  idx 610.0808527 sec
+Read Frame, time:  idx 610.0772511 sec
+Read Frame, time:  idx 610.0824509 sec
+Read Frame, time:  idx 620.0866367 sec
+Read Frame, time:  idx 620.0907506 sec
+Read Frame, time:  idx 620.0988443 sec
+Read Frame, time:  idx 620.0958976 sec
+Read Frame, time:  idx 620.0857363 sec
+Read Frame, time:  idx 620.0873022 sec
+Read Frame, time:  idx 630.0935667 sec
+Read Frame, time:  idx 630.0932876 sec
+Read Frame, time:  idx 630.0959287 sec
+Read Frame, time:  idx 630.0880325 sec
+Read Frame, time:  idx 630.0861824 sec
+Read Frame, time:  idx 630.0958841 sec
+Read Frame, time:  idx 640.0926402 sec
+Read Frame, time:  idx 640.102183 sec
+Read Frame, time:  idx 640.0982908 sec
+Read Frame, time:  idx 640.0940356 sec
+Read Frame, time:  idx 640.0979561 sec
+Read Frame, time:  idx 640.0973668 sec
+Read Frame, time:  idx 650.107067 sec
+Read Frame, time:  idx 650.1103 sec
+Read Frame, time:  idx 650.109201 sec
+Read Frame, time:  idx 650.102957 sec
+Read Frame, time:  idx 650.107173 sec
+Read Frame, time:  idx 650.107024 sec
+Read Frame, time:  idx 660.117139 sec
+Read Frame, time:  idx 660.118848 sec
+Read Frame, time:  idx 660.117064 sec
+Read Frame, time:  idx 660.104928 sec
+Read Frame, time:  idx 660.115545 sec
+Read Frame, time:  idx 660.112844 sec
+Read Frame, time:  idx 670.117987 sec
+Read Frame, time:  idx 670.120154 sec
+Read Frame, time:  idx 670.12276 sec
+Read Frame, time:  idx 670.110256 sec
+Read Frame, time:  idx 670.118082 sec
+Read Frame, time:  idx 670.113615 sec
+Read Frame, time:  idx 680.143709 sec
+Read Frame, time:  idx 680.1362 sec
+Read Frame, time:  idx 680.138619 sec
+Read Frame, time:  idx 680.125806 sec
+Read Frame, time:  idx 680.127279 sec
+Read Frame, time:  idx 680.138855 sec
+Read Frame, time:  idx 690.129726 sec
+Read Frame, time:  idx 690.132684 sec
+Read Frame, time:  idx 690.139822 sec
+Read Frame, time:  idx 690.130507 sec
+Read Frame, time:  idx 690.133356 sec
+Read Frame, time:  idx 690.129988 sec
+Read Frame, time:  idx 700.137692 sec
+Read Frame, time:  idx 700.14959 sec
+Read Frame, time:  idx 700.140596 sec
+Read Frame, time:  idx 700.13945 sec
+Read Frame, time:  idx 700.144907 sec
+Read Frame, time:  idx 700.141941 sec
+Read Frame, time:  idx 710.148648 sec
+Read Frame, time:  idx 710.156138 sec
+Read Frame, time:  idx 710.150552 sec
+Read Frame, time:  idx 710.162567 sec
+Read Frame, time:  idx 710.173403 sec
+Read Frame, time:  idx 710.154274 sec
+Read Frame, time:  idx 720.150002 sec
+Read Frame, time:  idx 720.156742 sec
+Read Frame, time:  idx 720.162948 sec
+Read Frame, time:  idx 720.151721 sec
+Read Frame, time:  idx 720.159452 sec
+Read Frame, time:  idx 720.153293 sec
+Read Frame, time:  idx 730.155992 sec
+Read Frame, time:  idx 730.172783 sec
+Read Frame, time:  idx 730.172913 sec
+Read Frame, time:  idx 730.153703 sec
+Read Frame, time:  idx 730.155291 sec
+Read Frame, time:  idx 730.159204 sec
+Read Frame, time:  idx 740.0563025 sec
+Read Frame, time:  idx 740.0546786 sec
+Read Frame, time:  idx 740.0552131 sec
+Read Frame, time:  idx 740.0532757 sec
+Read Frame, time:  idx 740.0529169 sec
+Read Frame, time:  idx 740.0567403 sec
+Read Frame, time:  idx 750.0608033 sec
+Read Frame, time:  idx 750.0620021 sec
+Read Frame, time:  idx 750.0632897 sec
+Read Frame, time:  idx 750.0604283 sec
+Read Frame, time:  idx 750.0591032 sec
+Read Frame, time:  idx 750.0591111 sec
+Read Frame, time:  idx 760.068085 sec
+Read Frame, time:  idx 760.0694922 sec
+Read Frame, time:  idx 760.0694958 sec
+Read Frame, time:  idx 760.0656443 sec
+Read Frame, time:  idx 760.0666983 sec
+Read Frame, time:  idx 760.0740569 sec
+Read Frame, time:  idx 770.0842549 sec
+Read Frame, time:  idx 770.0737688 sec
+Read Frame, time:  idx 770.0765891 sec
+Read Frame, time:  idx 770.0759769 sec
+Read Frame, time:  idx 770.0770585 sec
+Read Frame, time:  idx 770.0731048 sec
+Read Frame, time:  idx 780.0807875 sec
+Read Frame, time:  idx 780.0847787 sec
+Read Frame, time:  idx 780.0833766 sec
+Read Frame, time:  idx 780.0835988 sec
+Read Frame, time:  idx 780.0842541 sec
+Read Frame, time:  idx 780.0814238 sec
+Read Frame, time:  idx 790.0853045 sec
+Read Frame, time:  idx 790.0917979 sec
+Read Frame, time:  idx 790.0930389 sec
+Read Frame, time:  idx 790.0836146 sec
+Read Frame, time:  idx 790.0829503 sec
+Read Frame, time:  idx 790.0870899 sec
+Read Frame, time:  idx 800.108032 sec
+Read Frame, time:  idx 800.111508 sec
+Read Frame, time:  idx 800.0975416 sec
+Read Frame, time:  idx 800.0916996 sec
+Read Frame, time:  idx 800.0998031 sec
+Read Frame, time:  idx 800.0992658 sec
+Read Frame, time:  idx 810.10312 sec
+Read Frame, time:  idx 810.0996969 sec
+Read Frame, time:  idx 810.108574 sec
+Read Frame, time:  idx 810.0970751 sec
+Read Frame, time:  idx 810.098371 sec
+Read Frame, time:  idx 810.0948713 sec
+Read Frame, time:  idx 820.110662 sec
+Read Frame, time:  idx 820.112479 sec
+Read Frame, time:  idx 820.113162 sec
+Read Frame, time:  idx 820.108278 sec
+Read Frame, time:  idx 820.107804 sec
+Read Frame, time:  idx 820.0995718 sec
+Read Frame, time:  idx 830.113993 sec
+Read Frame, time:  idx 830.116247 sec
+Read Frame, time:  idx 830.120817 sec
+Read Frame, time:  idx 830.115413 sec
+Read Frame, time:  idx 830.112768 sec
+Read Frame, time:  idx 830.114213 sec
+Read Frame, time:  idx 840.122392 sec
+Read Frame, time:  idx 840.123388 sec
+Read Frame, time:  idx 840.122266 sec
+Read Frame, time:  idx 840.1188 sec
+Read Frame, time:  idx 840.119289 sec
+Read Frame, time:  idx 840.117173 sec
+Read Frame, time:  idx 850.12668 sec
+Read Frame, time:  idx 850.138198 sec
+Read Frame, time:  idx 850.134718 sec
+Read Frame, time:  idx 850.13477 sec
+Read Frame, time:  idx 850.129749 sec
+Read Frame, time:  idx 850.132465 sec
+Read Frame, time:  idx 860.136778 sec
+Read Frame, time:  idx 860.148216 sec
+Read Frame, time:  idx 860.141353 sec
+Read Frame, time:  idx 860.13937 sec
+Read Frame, time:  idx 860.137805 sec
+Read Frame, time:  idx 860.142777 sec
+Read Frame, time:  idx 870.13963 sec
+Read Frame, time:  idx 870.142578 sec
+Read Frame, time:  idx 870.144798 sec
+Read Frame, time:  idx 870.138543 sec
+Read Frame, time:  idx 870.139993 sec
+Read Frame, time:  idx 870.146454 sec
+Read Frame, time:  idx 880.147829 sec
+Read Frame, time:  idx 880.151533 sec
+Read Frame, time:  idx 880.155295 sec
+Read Frame, time:  idx 880.167116 sec
+Read Frame, time:  idx 880.167773 sec
+Read Frame, time:  idx 880.158043 sec
+Read Frame, time:  idx 890.157863 sec
+Read Frame, time:  idx 890.186757 sec
+Read Frame, time:  idx 890.159299 sec
+Read Frame, time:  idx 890.150674 sec
+Read Frame, time:  idx 890.154296 sec
+Read Frame, time:  idx 890.15572 sec
+Read Frame, time:  idx 900.050303 sec
+Read Frame, time:  idx 900.0513123 sec
+Read Frame, time:  idx 900.0516802 sec
+Read Frame, time:  idx 900.0516818 sec
+Read Frame, time:  idx 900.0496379 sec
+Read Frame, time:  idx 900.0491314 sec
+Read Frame, time:  idx 910.0578882 sec
+Read Frame, time:  idx 910.0614341 sec
+Read Frame, time:  idx 910.0588952 sec
+Read Frame, time:  idx 910.0591474 sec
+Read Frame, time:  idx 910.0573758 sec
+Read Frame, time:  idx 910.0681422 sec
+Read Frame, time:  idx 920.062074 sec
+Read Frame, time:  idx 920.0667666 sec
+Read Frame, time:  idx 920.0694338 sec
+Read Frame, time:  idx 920.0595579 sec
+Read Frame, time:  idx 920.0661188 sec
+Read Frame, time:  idx 920.0629163 sec
+Read Frame, time:  idx 930.0690801 sec
+Read Frame, time:  idx 930.0723813 sec
+Read Frame, time:  idx 930.0683305 sec
+Read Frame, time:  idx 930.0652816 sec
+Read Frame, time:  idx 930.0673579 sec
+Read Frame, time:  idx 930.0698427 sec
+Read Frame, time:  idx 940.0767865 sec
+Read Frame, time:  idx 940.0810733 sec
+Read Frame, time:  idx 940.0784957 sec
+Read Frame, time:  idx 940.0740084 sec
+Read Frame, time:  idx 940.0743257 sec
+Read Frame, time:  idx 940.0742124 sec
+Read Frame, time:  idx 950.0803095 sec
+Read Frame, time:  idx 950.082413 sec
+Read Frame, time:  idx 950.0874783 sec
+Read Frame, time:  idx 950.0832507 sec
+Read Frame, time:  idx 950.08222 sec
+Read Frame, time:  idx 950.0810844 sec
+Read Frame, time:  idx 960.103825 sec
+Read Frame, time:  idx 960.111915 sec
+Read Frame, time:  idx 960.094454 sec
+Read Frame, time:  idx 960.0862534 sec
+Read Frame, time:  idx 960.0844672 sec
+Read Frame, time:  idx 960.092598 sec
+Read Frame, time:  idx 970.0914169 sec
+Read Frame, time:  idx 970.101562 sec
+Read Frame, time:  idx 970.100178 sec
+Read Frame, time:  idx 970.0989931 sec
+Read Frame, time:  idx 970.0928475 sec
+Read Frame, time:  idx 970.0972239 sec
+Read Frame, time:  idx 980.102454 sec
+Read Frame, time:  idx 980.109919 sec
+Read Frame, time:  idx 980.105123 sec
+Read Frame, time:  idx 980.100722 sec
+Read Frame, time:  idx 980.10202 sec
+Read Frame, time:  idx 980.0997411 sec
+Read Frame, time:  idx 990.112806 sec
+Read Frame, time:  idx 990.106899 sec
+Read Frame, time:  idx 990.113476 sec
+Read Frame, time:  idx 990.110074 sec
+Read Frame, time:  idx 990.105 sec
+Read Frame, time:  idx 990.114503 sec
+Read Frame, time:  idx 1000.121922 sec
+Read Frame, time:  idx 1000.123473 sec
+Read Frame, time:  idx 1000.123847 sec
+Read Frame, time:  idx 1000.119875 sec
+Read Frame, time:  idx 1000.119053 sec
+Read Frame, time:  idx 1000.117383 sec
+Read Frame, time:  idx 1010.117953 sec
+Read Frame, time:  idx 1010.121498 sec
+Read Frame, time:  idx 1010.127131 sec
+Read Frame, time:  idx 1010.118041 sec
+Read Frame, time:  idx 1010.120401 sec
+Read Frame, time:  idx 1010.127048 sec
+Read Frame, time:  idx 1020.130861 sec
+Read Frame, time:  idx 1020.131138 sec
+Read Frame, time:  idx 1020.134879 sec
+Read Frame, time:  idx 1020.132363 sec
+Read Frame, time:  idx 1020.127192 sec
+Read Frame, time:  idx 1020.131732 sec
+Read Frame, time:  idx 1030.135977 sec
+Read Frame, time:  idx 1030.146645 sec
+Read Frame, time:  idx 1030.136956 sec
+Read Frame, time:  idx 1030.140704 sec
+Read Frame, time:  idx 1030.151742 sec
+Read Frame, time:  idx 1030.141267 sec
+Read Frame, time:  idx 1040.141736 sec
+Read Frame, time:  idx 1040.147352 sec
+Read Frame, time:  idx 1040.151357 sec
+Read Frame, time:  idx 1040.14215 sec
+Read Frame, time:  idx 1040.150061 sec
+Read Frame, time:  idx 1040.152864 sec
+Read Frame, time:  idx 1050.142211 sec
+Read Frame, time:  idx 1050.157801 sec
+Read Frame, time:  idx 1050.15101 sec
+Read Frame, time:  idx 1050.148179 sec
+Read Frame, time:  idx 1050.158858 sec
+Read Frame, time:  idx 1050.154646 sec
+Read Frame, time:  idx 1060.160839 sec
+Read Frame, time:  idx 1060.173337 sec
+Read Frame, time:  idx 1060.184362 sec
+Read Frame, time:  idx 1060.201338 sec
+Read Frame, time:  idx 1060.157887 sec
+Read Frame, time:  idx 1060.164787 sec
+Read Frame, time:  idx 1070.053852 sec
+Read Frame, time:  idx 1070.0509756 sec
+Read Frame, time:  idx 1070.052022 sec
+Read Frame, time:  idx 1070.0504913 sec
+Read Frame, time:  idx 1070.0537273 sec
+Read Frame, time:  idx 1070.051846 sec
+Read Frame, time:  idx 1080.0604603 sec
+Read Frame, time:  idx 1080.0618549 sec
+Read Frame, time:  idx 1080.0591273 sec
+Read Frame, time:  idx 1080.0575108 sec
+Read Frame, time:  idx 1080.0582415 sec
+Read Frame, time:  idx 1080.0613176 sec
+Read Frame, time:  idx 1090.0659972 sec
+Read Frame, time:  idx 1090.0676764 sec
+Read Frame, time:  idx 1090.0670535 sec
+Read Frame, time:  idx 1090.0668056 sec
+Read Frame, time:  idx 1090.0709586 sec
+Read Frame, time:  idx 1090.0642521 sec
+Read Frame, time:  idx 1100.0729359 sec
+Read Frame, time:  idx 1100.0751089 sec
+Read Frame, time:  idx 1100.0733859 sec
+Read Frame, time:  idx 1100.0732674 sec
+Read Frame, time:  idx 1100.0735564 sec
+Read Frame, time:  idx 1100.0701447 sec
+Read Frame, time:  idx 1110.0785608 sec
+Read Frame, time:  idx 1110.077469 sec
+Read Frame, time:  idx 1110.0782458 sec
+Read Frame, time:  idx 1110.0760902 sec
+Read Frame, time:  idx 1110.0836569 sec
+Read Frame, time:  idx 1110.0749087 sec
+Read Frame, time:  idx 1120.0864101 sec
+Read Frame, time:  idx 1120.108906 sec
+Read Frame, time:  idx 1120.0879002 sec
+Read Frame, time:  idx 1120.0840701 sec
+Read Frame, time:  idx 1120.0912622 sec
+Read Frame, time:  idx 1120.0866924 sec
+Read Frame, time:  idx 1130.0919865 sec
+Read Frame, time:  idx 1130.0960523 sec
+Read Frame, time:  idx 1130.0899635 sec
+Read Frame, time:  idx 1130.087847 sec
+Read Frame, time:  idx 1130.0921496 sec
+Read Frame, time:  idx 1130.090468 sec
+Read Frame, time:  idx 1140.097606 sec
+Read Frame, time:  idx 1140.0994308 sec
+Read Frame, time:  idx 1140.107451 sec
+Read Frame, time:  idx 1140.0957945 sec
+Read Frame, time:  idx 1140.0953003 sec
+Read Frame, time:  idx 1140.0960539 sec
+Read Frame, time:  idx 1150.105578 sec
+Read Frame, time:  idx 1150.102391 sec
+Read Frame, time:  idx 1150.10574 sec
+Read Frame, time:  idx 1150.104643 sec
+Read Frame, time:  idx 1150.104498 sec
+Read Frame, time:  idx 1150.0995923 sec
+Read Frame, time:  idx 1160.116729 sec
+Read Frame, time:  idx 1160.112616 sec
+Read Frame, time:  idx 1160.116745 sec
+Read Frame, time:  idx 1160.115341 sec
+Read Frame, time:  idx 1160.114271 sec
+Read Frame, time:  idx 1160.110853 sec
+Read Frame, time:  idx 1170.115308 sec
+Read Frame, time:  idx 1170.116882 sec
+Read Frame, time:  idx 1170.124595 sec
+Read Frame, time:  idx 1170.11577 sec
+Read Frame, time:  idx 1170.117946 sec
+Read Frame, time:  idx 1170.11587 sec
+Read Frame, time:  idx 1180.131588 sec
+Read Frame, time:  idx 1180.135112 sec
+Read Frame, time:  idx 1180.139182 sec
+Read Frame, time:  idx 1180.128025 sec
+Read Frame, time:  idx 1180.128564 sec
+Read Frame, time:  idx 1180.13704 sec
+Read Frame, time:  idx 1190.145663 sec
+Read Frame, time:  idx 1190.140021 sec
+Read Frame, time:  idx 1190.135184 sec
+Read Frame, time:  idx 1190.130751 sec
+Read Frame, time:  idx 1190.14221 sec
+Read Frame, time:  idx 1190.12647 sec
+Stitching ave Frame, time: 0.308622 sec
+'
+
+Stitching t1 Frame, time: 1.38065 sec
+'
+
+Stitching ave + t1 Frame, time: 1.68927 sec
+'
+
+5  0  15
+6  1  6
+36  2  36
+6 3   6
+6  3  6
+Wave correcting...
+Wave correcting, time: 4.18418e-005 sec
+6  4  6
+Warping images (auxiliary)... 
+Warping images, time: 0.0462629 sec
+Exposure compensation...
+Exposure compensation, time: 7.69732e-005 sec
+Finding seams...
+Finding seams, time: 0.000929994 sec
+Compositing...
+1 5   1
+2 5   2
+3 5   3
+4 5   4
+5 5   6
+6 5   6
+Compositing, time: 0.353778 sec
+Finished, total time: 420.193 sec
+[1 x 1]  6  [1 x 1]
+Stitching Statistic is : 2
+

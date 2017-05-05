@@ -1,0 +1,996 @@
+Finding features...
+Features in image #1: 1309
+Features in image #2: 2530
+Features in image #3: 1677
+Features in image #4: 938
+Features in image #5: 1153
+Features in image #6: 1214
+Finding features, time: 4.66453 sec
+Pairwise matching
+1->2 matches: 48
+
+1->2 matches: 66
+
+1->2 matches: 185
+1->2 & 2->1 matches: 77
+.1->2 & 2->1 matches: 87
+.
+1->2 matches: 36
+
+1->2 matches: 10
+1->2 & 2->1 matches: 28
+
+1->2 matches: 155
+
+1->2 matches: 211
+.1->2 & 2->1 matches: 338
+1->2 & 2->1 matches: 52
+.1->2 & 2->1 matches: 220
+.1->2 & 2->1 matches: 291
+
+1->2 matches: 16
+.1->2 & 2->1 matches: 43
+
+1->2 matches: 43
+1->2 & 2->1 matches: 58
+..
+1->2 matches: 167
+
+1->2 matches: 16
+
+1->2 matches: 14
+.1->2 & 2->1 matches: 32
+1->2 & 2->1 matches: 29
+1->2 & 2->1 matches: 207
+.
+1->2 matches: 71
+1->2 & 2->1 matches: 81
+
+1->2 matches: 22
+..1->2 & 2->1 matches: 33
+..
+1->2 matches: 26
+1->2 & 2->1 matches: 48
+.Pairwise matching, time: 0.894876 sec
+Saving matches graph...
+Estimating rotations...
+Estimating rotations, time: 7.65782e-005 sec
+Wave correcting...
+Wave correcting, time: 0.00011013 sec
+Warping images (auxiliary)... 
+Warping images, time: 0.53244 sec
+Exposure compensation...
+Exposure compensation, time: 1.91162 sec
+Finding seams...
+Finding seams, time: 5.18899 sec
+Compositing...
+Compositing, time: 10.8823 sec
+Finished, total time: 26.1324 sec
+Read Frame, time: 0.752568 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+Stitching Frame, time: 0.0601344 sec'
+'
+
+Read Frame, time: 0.978201 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0447619 sec'
+'
+
+Read Frame, time: 1.12913 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0364445 sec'
+'
+
+Read Frame, time: 0.417079 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0383945 sec'
+'
+
+Read Frame, time: 0.610596 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0333628 sec'
+'
+
+Read Frame, time: 1.4299 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0517653 sec'
+'
+
+Read Frame, time: 0.415411 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0420781 sec'
+'
+
+Read Frame, time: 0.63857 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0399478 sec'
+'
+
+Read Frame, time: 0.774289 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0344582 sec'
+'
+
+Read Frame, time: 0.942964 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0289173 sec'
+'
+
+Read Frame, time: 1.04377 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.058651 sec'
+'
+
+Read Frame, time: 1.18184 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0508558 sec'
+'
+
+Read Frame, time: 1.46336 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0440581 sec'
+'
+
+Read Frame, time: 0.525572 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0460227 sec'
+'
+
+Read Frame, time: 0.678584 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0373488 sec'
+'
+
+Read Frame, time: 1.51564 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0485506 sec'
+'
+
+Read Frame, time: 0.572694 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0585235 sec'
+'
+
+Read Frame, time: 0.925953 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0488604 sec'
+'
+
+Read Frame, time: 1.32459 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0473893 sec'
+'
+
+Read Frame, time: 1.36541 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0454065 sec'
+'
+
+Read Frame, time: 0.55724 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0380736 sec'
+'
+
+Read Frame, time: 0.710973 sec
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0352911 sec'
+'
+
+Read Frame, time: 0.980396 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0322741 sec'
+'
+
+Read Frame, time: 0.289651 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0283758 sec'
+'
+
+Read Frame, time: 1.08852 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0541234 sec'
+'
+
+Read Frame, time: 1.46834 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0488754 sec'
+'
+
+Read Frame, time: 0.527526 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0584457 sec'
+'
+
+Read Frame, time: 0.861889 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0486153 sec'
+'
+
+Read Frame, time: 1.31473 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0588941 sec'
+'
+
+Read Frame, time: 1.31583 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0436148 sec'
+'
+
+Read Frame, time: 0.539365 sec
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0378774 sec'
+'
+
+Read Frame, time: 0.695188 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0371996 sec'
+'
+
+Read Frame, time: 0.844909 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0283158 sec'
+'
+
+Read Frame, time: 0.299076 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0320397 sec'
+'
+
+Read Frame, time: 1.10844 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0598837 sec'
+'
+
+Read Frame, time: 1.40315 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0539588 sec'
+'
+
+Read Frame, time: 0.387412 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0395585 sec'
+'
+
+Read Frame, time: 0.911041 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0502361 sec'
+'
+
+Read Frame, time: 1.34386 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0539813 sec'
+'
+
+Read Frame, time: 1.18934 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0438094 sec'
+'
+
+Read Frame, time: 0.503184 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0319548 sec'
+'
+
+Read Frame, time: 0.659612 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0334512 sec'
+'
+
+Read Frame, time: 1.61877 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0470454 sec'
+'
+
+Read Frame, time: 0.485692 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0438375 sec'
+'
+
+Read Frame, time: 0.708754 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0387174 sec'
+'
+
+Read Frame, time: 0.878916 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0318715 sec'
+'
+
+Read Frame, time: 0.558398 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+Stitching Frame, time: 0.06211 sec'
+'
+
+Read Frame, time: 0.913006 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0540263 sec'
+'
+
+Read Frame, time: 1.29453 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0557943 sec'
+'
+
+Read Frame, time: 1.64694 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 1.1842e-006 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0438398 sec'
+'
+
+Read Frame, time: 0.5689 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.039962 sec'
+'
+
+Read Frame, time: 0.730279 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0375667 sec'
+'
+
+Read Frame, time: 0.789772 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0294285 sec'
+'
+
+Read Frame, time: 0.324781 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0257468 sec'
+'
+
+Read Frame, time: 0.517593 sec
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0301994 sec'
+'
+
+Read Frame, time: 1.41578 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+Stitching Frame, time: 0.0510271 sec'
+'
+
+Read Frame, time: 0.560163 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0562119 sec'
+'
+
+Read Frame, time: 0.83033 sec
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 7.89466e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+FeedSize Frame, time: 3.94733e-007 sec'
+
+Stitching Frame, time: 0.0451748 sec'
+'
+

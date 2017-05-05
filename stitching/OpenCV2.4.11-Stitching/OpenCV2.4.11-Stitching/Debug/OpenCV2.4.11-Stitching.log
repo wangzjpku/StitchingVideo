@@ -1,0 +1,79 @@
+﻿Build started 2016/3/14 23:17:06.
+     1>Project "D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\OpenCV2.4.11-Stitching\OpenCV2.4.11-Stitching.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\OpenCV2.4.11-Stitching.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\OpenCV2.4.11-Stitching.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D NOMINMAX /D "WIN32 NOMINMAX" /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt src\autocalib.cpp src\blenders.cpp src\camera.cpp src\exposure_compensate.cpp src\matchers.cpp src\motion_estimators.cpp src\seam_finders.cpp src\stitcher.cpp src\util.cpp src\warpers.cpp stitching_detailed.cpp
+         stitching_detailed.cpp
+     1>d:\14-3d摄像机方案\opencv-ip-sample\opencv2.4.11-stitching\opencv2.4.11-stitching\stitching_detailed.cpp(219): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>d:\14-3d摄像机方案\opencv-ip-sample\opencv2.4.11-stitching\opencv2.4.11-stitching\stitching_detailed.cpp(664): warning C4244: '=' : conversion from 'int64' to 'float', possible loss of data
+     1>d:\14-3d摄像机方案\opencv-ip-sample\opencv2.4.11-stitching\opencv2.4.11-stitching\stitching_detailed.cpp(668): warning C4244: '=' : conversion from 'int64' to 'float', possible loss of data
+     1>d:\14-3d摄像机方案\opencv-ip-sample\opencv2.4.11-stitching\opencv2.4.11-stitching\stitching_detailed.cpp(671): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\14-3d摄像机方案\opencv-ip-sample\opencv2.4.11-stitching\opencv2.4.11-stitching\stitching_detailed.cpp(675): warning C4244: '=' : conversion from 'int64' to 'float', possible loss of data
+     1>d:\14-3d摄像机方案\opencv-ip-sample\opencv2.4.11-stitching\opencv2.4.11-stitching\stitching_detailed.cpp(677): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\14-3d摄像机方案\opencv-ip-sample\opencv2.4.11-stitching\opencv2.4.11-stitching\stitching_detailed.cpp(678): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+         warpers.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         util.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         stitcher.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         seam_finders.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         motion_estimators.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         matchers.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         exposure_compensate.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         camera.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         blenders.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         autocalib.cpp
+     1>d:\14-3d摄像机方案\opencv\opencv2.4.11\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OpenCV2.4.11-Stitching.exe.embed.manifest.res" Debug\OpenCV2.4.11-Stitching_manifest.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\Debug\OpenCV2.4.11-Stitching.exe" /INCREMENTAL /NOLOGO opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_objdetect2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_nonfree2411d.lib opencv_ocl2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_superres2411d.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenCV2.4.11-Stitching.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\Debug\OpenCV2.4.11-Stitching.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\Debug\OpenCV2.4.11-Stitching.lib" /MACHINE:X86 "Debug\OpenCV2.4.11-Stitching.exe.embed.manifest.res"
+         Debug\autocalib.obj
+         Debug\blenders.obj
+         Debug\camera.obj
+         Debug\exposure_compensate.obj
+         Debug\matchers.obj
+         Debug\motion_estimators.obj
+         Debug\seam_finders.obj
+         Debug\stitcher.obj
+         Debug\util.obj
+         Debug\warpers.obj
+         Debug\stitching_detailed.obj
+       Manifest:
+         Deleting file "Debug\OpenCV2.4.11-Stitching.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OpenCV2.4.11-Stitching.exe.embed.manifest" /manifest "Debug\OpenCV2.4.11-Stitching.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OpenCV2.4.11-Stitching.exe.embed.manifest.res" Debug\OpenCV2.4.11-Stitching_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\Debug\OpenCV2.4.11-Stitching.exe" /INCREMENTAL /NOLOGO opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_objdetect2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_nonfree2411d.lib opencv_ocl2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_superres2411d.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenCV2.4.11-Stitching.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\Debug\OpenCV2.4.11-Stitching.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\Debug\OpenCV2.4.11-Stitching.lib" /MACHINE:X86 "Debug\OpenCV2.4.11-Stitching.exe.embed.manifest.res"
+         Debug\autocalib.obj
+         Debug\blenders.obj
+         Debug\camera.obj
+         Debug\exposure_compensate.obj
+         Debug\matchers.obj
+         Debug\motion_estimators.obj
+         Debug\seam_finders.obj
+         Debug\stitcher.obj
+         Debug\util.obj
+         Debug\warpers.obj
+         Debug\stitching_detailed.obj
+         OpenCV2.4.11-Stitching.vcxproj -> D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\Debug\OpenCV2.4.11-Stitching.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\OpenCV2.4.11-Stitching.unsuccessfulbuild".
+         Touching "Debug\OpenCV2.4.11-Stitching.lastbuildstate".
+     1>Done Building Project "D:\14-3D摄像机方案\opencv-ip-sample\OpenCV2.4.11-Stitching\OpenCV2.4.11-Stitching\OpenCV2.4.11-Stitching.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:45.04
