@@ -1,7 +1,7 @@
 # StitchingVideo
 this code is for stitching video in VC on opencv
 
-This part of the code is a real-time video mosaics of code, using VC environment, the OpenCV library, 1080 p video size, use in more than five road 360 - degree panorama，The video scenarios, various scenarios, including VR, on such occasions, which contains a large amount of test images, to welcome you all.
+This part of the code is a real-time stitch video of code, using VC environment, the OpenCV library, 1080p video size, use in more than five road 360 - degree panorama，The video scenarios, various scenarios, including VR, on such occasions, which contains a large amount of test images, to welcome you all.
 
 
 
